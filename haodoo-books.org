@@ -68,7 +68,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 改變                                | http://haodoo.net/?M=d&P=IV0355.epub      |   326 |      63183 |         1526 |          |
 | 鍾理和                               | 原鄉人                              | http://haodoo.net/?M=d&P=A505.epub        |   326 |       5629 |          615 |          |
 | 露意絲‧海                            | 生命的重建                          | http://haodoo.net/?M=d&P=B536.epub        |   326 |      66137 |         1518 |          |
-| 鍾理和                               | 原鄉人                              | http://haodoo.net/?M=d&P=A505.epub        |   326 |       5629 |          615 | 世界百強 |
+| 鍾理和                               | 原鄉人                              | http://haodoo.net/?M=d&P=A505.epub        |   326 |       5629 |          615 | 世紀百強 |
 | 倪匡                                 | 大廈                                | http://haodoo.net/?M=d&P=E115.epub        |   327 |      73653 |         1440 |          |
 | 倪匡                                 | 大廈                                | http://haodoo.net/?M=d&P=EV115.epub       |   327 |      73653 |         1440 |          |
 | 倪匡                                 | 豪賭                                | http://haodoo.net/?M=d&P=I0325.epub       |   327 |      64070 |         1477 |          |
@@ -151,7 +151,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 真實幻境                            | http://haodoo.net/?M=d&P=IV0326.epub      |   344 |      64323 |         1366 |          |
 | 倪匡                                 | 羅開系列三：魔像                    | http://haodoo.net/?M=d&P=J081110N3.epub   |   344 |      70269 |         1580 |          |
 | 倪匡                                 | 羅開系列三：魔像                    | http://haodoo.net/?M=d&P=JV081110N3.epub  |   344 |      70269 |         1580 |          |
-| 倪匡                                 | 藍血人                              | http://haodoo.net/?M=d&P=E89.epub         |   344 |     158253 |         2078 | 世界百強 |
+| 倪匡                                 | 藍血人                              | http://haodoo.net/?M=d&P=E89.epub         |   344 |     158253 |         2078 | 世紀百強 |
 | 倪匡                                 | 算帳                                | http://haodoo.net/?M=d&P=I0347.epub       |   345 |      62498 |         1640 |          |
 | 倪匡                                 | 須彌芥子                            | http://haodoo.net/?M=d&P=I03A5.epub       |   345 |      65056 |         1286 |          |
 | 倪匡                                 | 算帳                                | http://haodoo.net/?M=d&P=IV0347.epub      |   345 |      62498 |         1640 |          |
@@ -396,15 +396,15 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 羅開系列八：火鳳                    | http://haodoo.net/?M=d&P=J081110N8.epub   |   366 |      69438 |         1613 |          |
 | 倪匡                                 | 羅開系列十五：困獸                  | http://haodoo.net/?M=d&P=JV081110N15.epub |   366 |      54842 |         1473 |          |
 | 倪匡                                 | 羅開系列八：火鳳                    | http://haodoo.net/?M=d&P=JV081110N8.epub  |   366 |      69438 |         1613 |          |
-| 郁達夫                               | 沉淪                                | http://haodoo.net/?M=d&P=A451.epub        |   366 |      16907 |         1034 | 世界百強 |
+| 郁達夫                               | 沉淪                                | http://haodoo.net/?M=d&P=A451.epub        |   366 |      16907 |         1034 | 世紀百強 |
 | 安娜．馮塔                           | 數學零分的人                        | http://haodoo.net/?M=d&P=H1475.epub       |   367 |      23686 |         1157 |          |
 | 安娜．馮塔                           | 數學零分的人                        | http://haodoo.net/?M=d&P=HV1475.epub      |   367 |      23686 |         1157 |          |
 | 倪匡                                 | 身外化身                            | http://haodoo.net/?M=d&P=I03A2.epub       |   367 |      63952 |         1274 |          |
 | 倪匡                                 | 血濺黃金柱                          | http://haodoo.net/?M=d&P=I10D7.epub       |   367 |      54851 |         1460 |          |
 | 倪匡                                 | 身外化身                            | http://haodoo.net/?M=d&P=IV03A2.epub      |   367 |      63952 |         1274 |          |
 | 倪匡                                 | 血濺黃金柱                          | http://haodoo.net/?M=d&P=IV10D7.epub      |   367 |      54851 |         1460 |          |
-| 古龍                                 | 楚留香傳奇‧新月傳奇                 | http://haodoo.net/?M=d&P=I1017.epub       |   367 |      79254 |         1709 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧新月傳奇                 | http://haodoo.net/?M=d&P=IV1017.epub      |   367 |      79254 |         1709 | 世界百強 |
+| 古龍                                 | 楚留香傳奇‧新月傳奇                 | http://haodoo.net/?M=d&P=I1017.epub       |   367 |      79254 |         1709 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧新月傳奇                 | http://haodoo.net/?M=d&P=IV1017.epub      |   367 |      79254 |         1709 | 世紀百強 |
 | 巴金                                 | 寒夜                                | http://haodoo.net/?M=d&P=AV484.epub       |   368 |     118794 |         1858 |          |
 | 倪匡                                 | 魔磁                                | http://haodoo.net/?M=d&P=E128.epub        |   368 |      59713 |         1475 |          |
 | 倪匡                                 | 魔磁                                | http://haodoo.net/?M=d&P=EV128.epub       |   368 |      59713 |         1475 |          |
@@ -415,7 +415,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 大秘密                              | http://haodoo.net/?M=d&P=I0371.epub       |   368 |      76055 |         1817 |          |
 | 倪匡                                 | 大秘密                              | http://haodoo.net/?M=d&P=IV0371.epub      |   368 |      76055 |         1817 |          |
 | 巴金                                 | 寒夜                                | http://haodoo.net/?M=d&P=A484.epub        |   368 |     118794 |         1858 |          |
-| 巴金                                 | 寒夜                                | http://haodoo.net/?M=d&P=A484.epub        |   368 |     118794 |         1858 | 世界百強 |
+| 巴金                                 | 寒夜                                | http://haodoo.net/?M=d&P=A484.epub        |   368 |     118794 |         1858 | 世紀百強 |
 | 林慶昭                               | 態度決定出路                        | http://haodoo.net/?M=d&P=B1303.epub       |   369 |      25518 |         1290 |          |
 | 林慶昭                               | 態度決定出路                        | http://haodoo.net/?M=d&P=BV1303.epub      |   369 |      25518 |         1290 |          |
 | 倪匡                                 | 神仙                                | http://haodoo.net/?M=d&P=E143.epub        |   369 |      88141 |         1750 |          |
@@ -594,7 +594,7 @@ expect to encounter per sentence or page.
 | 阿嘉莎．克莉絲蒂                     | 東方快車謀殺案                      | http://haodoo.net/?M=d&P=IV1037.epub      |   382 |      92655 |         1809 |          |
 | 倪匡                                 | 地道奇人                            | http://haodoo.net/?M=d&P=IV10J1.epub      |   382 |      53501 |         1415 |          |
 | 楊繼繩                               | 墓碑‧卷下                           | http://haodoo.net/?M=d&P=C1122b.epub      |   382 |     350716 |         2509 |          |
-| 丁玲                                 | 莎菲女士的日記                      | http://haodoo.net/?M=d&P=A429.epub        |   382 |      20283 |         1042 | 世界百強 |
+| 丁玲                                 | 莎菲女士的日記                      | http://haodoo.net/?M=d&P=A429.epub        |   382 |      20283 |         1042 | 世紀百強 |
 | 王國華                               | 一頭擦了口紅的豬                    | http://haodoo.net/?M=d&P=B1341.epub       |   383 |      50846 |         1726 |          |
 | 王國華                               | 一頭擦了口紅的豬                    | http://haodoo.net/?M=d&P=BV1341.epub      |   383 |      50846 |         1726 |          |
 | 倪匡                                 | 這就是鬼                            | http://haodoo.net/?M=d&P=G1658.epub       |   383 |      56840 |         1806 |          |
@@ -630,7 +630,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 怒殲惡魔團                          | http://haodoo.net/?M=d&P=IV10B7.epub      |   384 |      53819 |         1386 |          |
 | 倪匡                                 | 麗人劫                              | http://haodoo.net/?M=d&P=G16I0.epub       |   384 |      54032 |         1496 |          |
 | 倪匡                                 | 麗人劫                              | http://haodoo.net/?M=d&P=GV16I0.epub      |   384 |      54032 |         1496 |          |
-| 孫犁                                 | 荷花淀                              | http://haodoo.net/?M=d&P=A507.epub        |   384 |       3245 |          369 | 世界百強 |
+| 孫犁                                 | 荷花淀                              | http://haodoo.net/?M=d&P=A507.epub        |   384 |       3245 |          369 | 世紀百強 |
 | 陳之藩                               | 一星如月                            | http://haodoo.net/?M=d&P=B1223.epub       |   385 |      39878 |         1681 |          |
 | 渡邊淳一                             | 男人這東西                          | http://haodoo.net/?M=d&P=B371.epub        |   385 |     110231 |         1938 |          |
 | 陳之藩                               | 一星如月                            | http://haodoo.net/?M=d&P=BV1223.epub      |   385 |      39878 |         1681 |          |
@@ -656,7 +656,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 羅開系列六：蛇神                    | http://haodoo.net/?M=d&P=JV081110N6.epub  |   386 |      68929 |         1721 |          |
 | 聖嚴法師                             | 人間世                              | http://haodoo.net/?M=d&P=B16P6.epub       |   386 |      55841 |         1631 |          |
 | 聖嚴法師                             | 人間世                              | http://haodoo.net/?M=d&P=BV16P6.epub      |   386 |      55841 |         1631 |          |
-| 施蟄存                               | 將軍底頭                            | http://haodoo.net/?M=d&P=A452.epub        |   386 |      17963 |         1104 | 世界百強 |
+| 施蟄存                               | 將軍底頭                            | http://haodoo.net/?M=d&P=A452.epub        |   386 |      17963 |         1104 | 世紀百強 |
 | 倪匡                                 | 連鎖                                | http://haodoo.net/?M=d&P=E133.epub        |   387 |     145683 |         1931 |          |
 | 鬼馬星                               | 迷宮蛛二：死刑犯的女人              | http://haodoo.net/?M=d&P=E14Y0.epub       |   387 |     148257 |         2161 |          |
 | 54 阿嘉莎．克莉絲蒂                  | 無辜者的試煉                        | http://haodoo.net/?M=d&P=E15I7.epub       |   387 |     100739 |         1775 |          |
@@ -707,7 +707,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 秘密黨                              | http://haodoo.net/?M=d&P=IV10C2.epub      |   389 |      54733 |         1479 |          |
 | 倪匡                                 | 羅開系列五：巨龍                    | http://haodoo.net/?M=d&P=J081110N5.epub   |   389 |      70092 |         1627 |          |
 | 倪匡                                 | 羅開系列五：巨龍                    | http://haodoo.net/?M=d&P=JV081110N5.epub  |   389 |      70092 |         1627 |          |
-| 穆時英                               | 公墓                                | http://haodoo.net/?M=d&P=A473.epub        |   389 |       9035 |          715 | 世界百強 |
+| 穆時英                               | 公墓                                | http://haodoo.net/?M=d&P=A473.epub        |   389 |       9035 |          715 | 世紀百強 |
 | 林慶昭                               | 12 個簡單＋12 個豐富                | http://haodoo.net/?M=d&P=B1315.epub       |   390 |      31662 |         1479 |          |
 | 理查．費曼                           | 你幹嘛在乎別人怎麼想？              | http://haodoo.net/?M=d&P=B1677.epub       |   390 |      82960 |         1888 |          |
 | 林慶昭                               | 12 個簡單＋12 個豐富                | http://haodoo.net/?M=d&P=BV1315.epub      |   390 |      31662 |         1479 |          |
@@ -748,9 +748,9 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 奪命紅燭                            | http://haodoo.net/?M=d&P=I10A3.epub       |   391 |      51972 |         1471 |          |
 | 倪匡                                 | 心變                                | http://haodoo.net/?M=d&P=IV0909.epub      |   391 |     117154 |         1875 |          |
 | 倪匡                                 | 奪命紅燭                            | http://haodoo.net/?M=d&P=IV10A3.epub      |   391 |      51972 |         1471 |          |
-| 黃春明                               | 兒子的大玩偶                        | http://haodoo.net/?M=d&P=A481.epub        |   391 |      10529 |          807 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧桃花傳奇                 | http://haodoo.net/?M=d&P=I1022.epub       |   391 |     111814 |         1797 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧桃花傳奇                 | http://haodoo.net/?M=d&P=IV1022.epub      |   391 |     111814 |         1797 | 世界百強 |
+| 黃春明                               | 兒子的大玩偶                        | http://haodoo.net/?M=d&P=A481.epub        |   391 |      10529 |          807 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧桃花傳奇                 | http://haodoo.net/?M=d&P=I1022.epub       |   391 |     111814 |         1797 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧桃花傳奇                 | http://haodoo.net/?M=d&P=IV1022.epub      |   391 |     111814 |         1797 | 世紀百強 |
 | 聖嚴法師                             | 因果與因緣                          | http://haodoo.net/?M=d&P=B11J8.epub       |   392 |      28367 |         1123 |          |
 | 羅蘭                                 | 早起看人間                          | http://haodoo.net/?M=d&P=B12D0.epub       |   392 |      73866 |         2065 |          |
 | 羅蘭                                 | 早起看人間                          | http://haodoo.net/?M=d&P=BV12D0.epub      |   392 |      73866 |         2065 |          |
@@ -787,7 +787,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 鐵蝙蝠                              | http://haodoo.net/?M=d&P=I10I8.epub       |   393 |      52480 |         1430 |          |
 | 倪匡                                 | 殺人獎金                            | http://haodoo.net/?M=d&P=IV10A6.epub      |   393 |      53388 |         1465 |          |
 | 倪匡                                 | 鐵蝙蝠                              | http://haodoo.net/?M=d&P=IV10I8.epub      |   393 |      52480 |         1430 |          |
-| 王蒙                                 | 組織部來了個年輕人                  | http://haodoo.net/?M=d&P=A556.epub        |   393 |      19656 |         1167 | 世界百強 |
+| 王蒙                                 | 組織部來了個年輕人                  | http://haodoo.net/?M=d&P=A556.epub        |   393 |      19656 |         1167 | 世紀百強 |
 | 臥龍生                               | 飛鈴                                | http://haodoo.net/?M=d&P=D1126.epub       |   394 |     601710 |         2713 |          |
 | 臥龍生                               | 飛鈴                                | http://haodoo.net/?M=d&P=DV1126.epub      |   394 |     601710 |         2713 |          |
 | 湊佳苗                               | 告白                                | http://haodoo.net/?M=d&P=E1149.epub       |   394 |      77738 |         1790 |          |
@@ -828,7 +828,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 殺氣嚴霜                            | http://haodoo.net/?M=d&P=DV16R4.epub      |   395 |      25631 |         1105 |          |
 | 毛姆                                 | 巴黎的異鄉人                        | http://haodoo.net/?M=d&P=H16L4.epub       |   395 |     126123 |         2195 |          |
 | 毛姆                                 | 巴黎的異鄉人                        | http://haodoo.net/?M=d&P=HV16L4.epub      |   395 |     126123 |         2195 |          |
-| 巴金                                 | 家                                  | http://haodoo.net/?M=d&P=A443.epub        |   395 |     219546 |         2423 | 世界百強 |
+| 巴金                                 | 家                                  | http://haodoo.net/?M=d&P=A443.epub        |   395 |     219546 |         2423 | 世紀百強 |
 | 林語堂                               | 林語堂自傳                          | http://haodoo.net/?M=d&P=B1449.epub       |   396 |      60459 |         2044 |          |
 | 林語堂                               | 林語堂自傳                          | http://haodoo.net/?M=d&P=BV1449.epub      |   396 |      60459 |         2044 |          |
 | 湊佳苗                               | 境遇                                | http://haodoo.net/?M=d&P=E13G8.epub       |   396 |      64223 |         1443 |          |
@@ -919,8 +919,8 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 軍械大盜                            | http://haodoo.net/?M=d&P=IV10F8.epub      |   399 |      56580 |         1399 |          |
 | 倪匡                                 | 古屋奇影                            | http://haodoo.net/?M=d&P=IV10J6.epub      |   399 |      53071 |         1342 |          |
 | 倪匡                                 | 無名怪屍                            | http://haodoo.net/?M=d&P=IV10K2.epub      |   399 |      56853 |         1469 |          |
-| 張大春                               | 四喜憂國                            | http://haodoo.net/?M=d&P=A450.epub        |   399 |       9181 |          849 | 世界百強 |
-| 王小波                               | 黃金時代                            | http://haodoo.net/?M=d&P=A454.epub        |   399 |      29182 |         1340 | 世界百強 |
+| 張大春                               | 四喜憂國                            | http://haodoo.net/?M=d&P=A450.epub        |   399 |       9181 |          849 | 世紀百強 |
+| 王小波                               | 黃金時代                            | http://haodoo.net/?M=d&P=A454.epub        |   399 |      29182 |         1340 | 世紀百強 |
 | 倪匡                                 | 八俊傑                              | http://haodoo.net/?M=d&P=D1543.epub       |   400 |      37601 |         1267 |          |
 | 倪匡                                 | 八俊傑                              | http://haodoo.net/?M=d&P=DV1543.epub      |   400 |      37601 |         1267 |          |
 | 阿嘉莎．克莉絲蒂                     | 諜海                                | http://haodoo.net/?M=d&P=E12C7.epub       |   400 |      95338 |         1969 |          |
@@ -949,7 +949,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 鑽石雷射                            | http://haodoo.net/?M=d&P=I10E4.epub       |   401 |      54420 |         1413 |          |
 | 廣欽老和尚                           | 廣欽老和尚開示錄                    | http://haodoo.net/?M=d&P=IV0396.epub      |   401 |      62363 |         1495 |          |
 | 倪匡                                 | 鑽石雷射                            | http://haodoo.net/?M=d&P=IV10E4.epub      |   401 |      54420 |         1413 |          |
-| 戴厚英                               | 人啊，人！                          | http://haodoo.net/?M=d&P=A575.epub        |   401 |     176879 |         2467 | 世界百強 |
+| 戴厚英                               | 人啊，人！                          | http://haodoo.net/?M=d&P=A575.epub        |   401 |     176879 |         2467 | 世紀百強 |
 | 賈德諾                               | 梅森探案集 4．別墅疑雲              | http://haodoo.net/?M=d&P=E11G0.epub       |   402 |      95076 |         1562 |          |
 | 赤川次郎                             | 東西南北殺人事件                    | http://haodoo.net/?M=d&P=E13P8.epub       |   402 |      74451 |         1745 |          |
 | 阿嘉莎．克莉絲蒂                     | 加勒比海之謎                        | http://haodoo.net/?M=d&P=E14T2.epub       |   402 |      81738 |         1778 |          |
@@ -1060,8 +1060,8 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 怪新郎                              | http://haodoo.net/?M=d&P=IV10H6.epub      |   406 |      52863 |         1328 |          |
 | 倪匡                                 | 生死碧玉                            | http://haodoo.net/?M=d&P=IV10J4.epub      |   406 |      52274 |         1374 |          |
 | 倪匡                                 | 天才白癡                            | http://haodoo.net/?M=d&P=IV10J8.epub      |   406 |      52348 |         1370 |          |
-| 古龍                                 | 楚留香傳奇．蝙蝠傳奇                | http://haodoo.net/?M=d&P=I0112.epub       |   406 |     186035 |         2190 | 世界百強 |
-| 古龍                                 | 楚留香傳奇．蝙蝠傳奇                | http://haodoo.net/?M=d&P=IV0112.epub      |   406 |     186035 |         2190 | 世界百強 |
+| 古龍                                 | 楚留香傳奇．蝙蝠傳奇                | http://haodoo.net/?M=d&P=I0112.epub       |   406 |     186035 |         2190 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇．蝙蝠傳奇                | http://haodoo.net/?M=d&P=IV0112.epub      |   406 |     186035 |         2190 | 世紀百強 |
 | 馬原                                 | 岡底斯的誘惑                        | http://haodoo.net/?M=d&P=AV555.epub       |   407 |      27200 |         1383 |          |
 | 蔣勳                                 | 孤獨六講                            | http://haodoo.net/?M=d&P=B1348.epub       |   407 |      98834 |         2134 |          |
 | 蔣勳                                 | 孤獨六講                            | http://haodoo.net/?M=d&P=BV1348.epub      |   407 |      98834 |         2134 |          |
@@ -1090,7 +1090,7 @@ expect to encounter per sentence or page.
 | 席絹                                 | 珠玉在側                            | http://haodoo.net/?M=d&P=I1021.epub       |   407 |      80460 |         1937 |          |
 | 倪匡                                 | 黑暗歷險                            | http://haodoo.net/?M=d&P=I10F4.epub       |   407 |      56888 |         1366 |          |
 | 倪匡                                 | 黑暗歷險                            | http://haodoo.net/?M=d&P=IV10F4.epub      |   407 |      56888 |         1366 |          |
-| 馬原                                 | 岡底斯的誘惑                        | http://haodoo.net/?M=d&P=A555.epub        |   407 |      27200 |         1383 | 世界百強 |
+| 馬原                                 | 岡底斯的誘惑                        | http://haodoo.net/?M=d&P=A555.epub        |   407 |      27200 |         1383 | 世紀百強 |
 | 郁達夫                               | 郁達夫自傳                          | http://haodoo.net/?M=d&P=B12B6.epub       |   408 |      47857 |         1859 |          |
 | 王鼎鈞                               | 世事與棋                            | http://haodoo.net/?M=d&P=B12L0.epub       |   408 |      53141 |         1919 |          |
 | 馬克．吐溫                           | 馬克．吐溫自傳                      | http://haodoo.net/?M=d&P=B1474.epub       |   408 |     243099 |         2702 |          |
@@ -1150,7 +1150,7 @@ expect to encounter per sentence or page.
 | 古龍                                 | 火併蕭十一郎                        | http://haodoo.net/?M=d&P=IV09E6.epub      |   409 |     209642 |         2211 |          |
 | 周顯                                 | 魔腦                                | http://haodoo.net/?M=d&P=G16N2.epub       |   409 |      33425 |         1570 |          |
 | 周顯                                 | 魔腦                                | http://haodoo.net/?M=d&P=GV16N2.epub      |   409 |      33425 |         1570 |          |
-| 於梨華                               | 又見棕櫚．又見棕櫚                  | http://haodoo.net/?M=d&P=A573.epub        |   409 |     155731 |         2443 | 世界百強 |
+| 於梨華                               | 又見棕櫚．又見棕櫚                  | http://haodoo.net/?M=d&P=A573.epub        |   409 |     155731 |         2443 | 世紀百強 |
 | 趙樹理                               | 小二黑結婚                          | http://haodoo.net/?M=d&P=AV433.epub       |   410 |       8320 |          642 |          |
 | 賴和                                 | 惹事                                | http://haodoo.net/?M=d&P=AV449.epub       |   410 |       6918 |          650 |          |
 | 赤川次郎                             | 世紀惡魔                            | http://haodoo.net/?M=d&P=E14BC3.epub      |   410 |      55826 |         1370 |          |
@@ -1174,8 +1174,8 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 海底火龍                            | http://haodoo.net/?M=d&P=IV1091.epub      |   410 |      50518 |         1495 |          |
 | 倪匡                                 | 獵頭禁地                            | http://haodoo.net/?M=d&P=IV10I0.epub      |   410 |      54525 |         1466 |          |
 | 梁羽生                               | 武當一劍                            | http://haodoo.net/?M=d&P=IV10N2.epub      |   410 |     490041 |         2906 |          |
-| 趙樹理                               | 小二黑結婚                          | http://haodoo.net/?M=d&P=A433.epub        |   410 |       8320 |          642 | 世界百強 |
-| 賴和                                 | 惹事                                | http://haodoo.net/?M=d&P=A449.epub        |   410 |       6918 |          650 | 世界百強 |
+| 趙樹理                               | 小二黑結婚                          | http://haodoo.net/?M=d&P=A433.epub        |   410 |       8320 |          642 | 世紀百強 |
+| 賴和                                 | 惹事                                | http://haodoo.net/?M=d&P=A449.epub        |   410 |       6918 |          650 | 世紀百強 |
 | 艾德聯．柏利                         | 宇宙萬年後                          | http://haodoo.net/?M=d&P=B1371.epub       |   411 |      88213 |         1830 |          |
 | 羅家倫                               | 新人生觀                            | http://haodoo.net/?M=d&P=B15K5.epub       |   411 |      78094 |         2105 |          |
 | 艾德聯．柏利                         | 宇宙萬年後                          | http://haodoo.net/?M=d&P=BV1371.epub      |   411 |      88213 |         1830 |          |
@@ -1227,7 +1227,7 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 天人                                | http://haodoo.net/?M=d&P=HVQSA01.epub     |   412 |     109917 |         1877 |          |
 | 倪匡                                 | 失蹤新娘                            | http://haodoo.net/?M=d&P=I10H3.epub       |   412 |      53784 |         1414 |          |
 | 倪匡                                 | 失蹤新娘                            | http://haodoo.net/?M=d&P=IV10H3.epub      |   412 |      53784 |         1414 |          |
-| 陳映真                               | 將軍族                              | http://haodoo.net/?M=d&P=A448.epub        |   412 |       6177 |          599 | 世界百強 |
+| 陳映真                               | 將軍族                              | http://haodoo.net/?M=d&P=A448.epub        |   412 |       6177 |          599 | 世紀百強 |
 | 王溢嘉                               | 蟲洞書簡                            | http://haodoo.net/?M=d&P=B12L2.epub       |   413 |      57032 |         1940 |          |
 | 李曉丹                               | 胡適先生三味藥                      | http://haodoo.net/?M=d&P=B1319.epub       |   413 |     102431 |         2256 |          |
 | 唐斯                                 | 改變歷史的書                        | http://haodoo.net/?M=d&P=B15B4.epub       |   413 |     138605 |         2165 |          |
@@ -1368,8 +1368,8 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 潛艇迷宮                            | http://haodoo.net/?M=d&P=I10E6.epub       |   417 |      55833 |         1426 |          |
 | 夏樹靜子                             | 來自死亡谷的女人                    | http://haodoo.net/?M=d&P=IV0430.epub      |   417 |     117516 |         1947 |          |
 | 倪匡                                 | 潛艇迷宮                            | http://haodoo.net/?M=d&P=IV10E6.epub      |   417 |      55833 |         1426 |          |
-| 古龍                                 | 楚留香傳奇‧畫眉鳥                   | http://haodoo.net/?M=d&P=D495.epub        |   417 |     168710 |         2304 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧畫眉鳥                   | http://haodoo.net/?M=d&P=DV495.epub       |   417 |     168710 |         2304 | 世界百強 |
+| 古龍                                 | 楚留香傳奇‧畫眉鳥                   | http://haodoo.net/?M=d&P=D495.epub        |   417 |     168710 |         2304 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧畫眉鳥                   | http://haodoo.net/?M=d&P=DV495.epub       |   417 |     168710 |         2304 | 世紀百強 |
 | 賈德諾                               | 梅森探案集 5．俏佳人                | http://haodoo.net/?M=d&P=E11G1.epub       |   418 |      72841 |         1572 |          |
 | 賈德諾                               | 梅森探案集 9．奇怪的合同            | http://haodoo.net/?M=d&P=E11H1.epub       |   418 |      72518 |         1606 |          |
 | 赤川次郎                             | 不眠不休殺人事件                    | http://haodoo.net/?M=d&P=E1430.epub       |   418 |      52756 |         1587 |          |
@@ -1456,10 +1456,10 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 毒誓                                | http://haodoo.net/?M=d&P=IV0387.epub      |   420 |      78156 |         1816 |          |
 | 倪匡                                 | 新獨臂刀                            | http://haodoo.net/?M=d&P=IV09E2.epub      |   420 |      32329 |         1160 |          |
 | 艾西莫夫                             | 基地前傳：基地前奏（下）            | http://haodoo.net/?M=d&P=IV1019b.epub     |   420 |     103595 |         1977 |          |
-| 張恨水                               | 啼笑因緣                            | http://haodoo.net/?M=d&P=A479.epub        |   420 |     193726 |         2385 | 世界百強 |
-| 許地山                               | 春桃                                | http://haodoo.net/?M=d&P=A506.epub        |   420 |       9986 |          776 | 世界百強 |
-| 柔石                                 | 二月                                | http://haodoo.net/?M=d&P=A535.epub        |   420 |      55805 |         1581 | 世界百強 |
-| 鹿橋                                 | 未央歌                              | http://haodoo.net/?M=d&P=A562.epub        |   420 |     390387 |         3066 | 世界百強 |
+| 張恨水                               | 啼笑因緣                            | http://haodoo.net/?M=d&P=A479.epub        |   420 |     193726 |         2385 | 世紀百強 |
+| 許地山                               | 春桃                                | http://haodoo.net/?M=d&P=A506.epub        |   420 |       9986 |          776 | 世紀百強 |
+| 柔石                                 | 二月                                | http://haodoo.net/?M=d&P=A535.epub        |   420 |      55805 |         1581 | 世紀百強 |
+| 鹿橋                                 | 未央歌                              | http://haodoo.net/?M=d&P=A562.epub        |   420 |     390387 |         3066 | 世紀百強 |
 | 黃鷹                                 | 屠龍                                | http://haodoo.net/?M=d&P=D1136.epub       |   421 |     113148 |         1901 |          |
 | 古龍                                 | 銀鉤賭坊                            | http://haodoo.net/?M=d&P=D492.epub        |   421 |     108286 |         1940 |          |
 | 赤川次郎                             | 巨額支票                            | http://haodoo.net/?M=d&P=E14BC1.epub      |   421 |      49409 |         1459 |          |
@@ -1532,7 +1532,7 @@ expect to encounter per sentence or page.
 | 史蒂芬．金                           | 蕭山克的救贖                        | http://haodoo.net/?M=d&P=HV15Y7.epub      |   423 |      62400 |         1879 |          |
 | 田中芳樹                             | 中國武將列傳                        | http://haodoo.net/?M=d&P=I10K3.epub       |   423 |     173704 |         2231 |          |
 | 老舍                                 | 四世同堂                            | http://haodoo.net/?M=d&P=A404.epub        |   423 |     605963 |         3185 |          |
-| 老舍                                 | 四世同堂                            | http://haodoo.net/?M=d&P=A404.epub        |   423 |     605963 |         3185 | 世界百強 |
+| 老舍                                 | 四世同堂                            | http://haodoo.net/?M=d&P=A404.epub        |   423 |     605963 |         3185 | 世紀百強 |
 | 亦舒                                 | 喜寶                                | http://haodoo.net/?M=d&P=A400a.epub       |   424 |     108208 |         2216 |          |
 | 亦舒                                 | 喜寶                                | http://haodoo.net/?M=d&P=AV400a.epub      |   424 |     108208 |         2216 |          |
 | 徐速                                 | 星星·月亮·太陽                    | http://haodoo.net/?M=d&P=AV554.epub       |   424 |     172904 |         2586 |          |
@@ -1562,8 +1562,8 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 巧奪死光錶                          | http://haodoo.net/?M=d&P=IV1088.epub      |   424 |      54497 |         1505 |          |
 | 瑪麗．海金斯．克拉克                 | 夜半陌生人                          | http://haodoo.net/?M=d&P=E16O6.epub       |   424 |      90726 |         1850 |          |
 | 瑪麗．海金斯．克拉克                 | 夜半陌生人                          | http://haodoo.net/?M=d&P=EV16O6.epub      |   424 |      90726 |         1850 |          |
-| 亦舒                                 | 喜寶                                | http://haodoo.net/?M=d&P=A400.epub        |   424 |     107047 |         2204 | 世界百強 |
-| 徐速                                 | 星星·月亮·太陽                    | http://haodoo.net/?M=d&P=A554.epub        |   424 |     172904 |         2586 | 世界百強 |
+| 亦舒                                 | 喜寶                                | http://haodoo.net/?M=d&P=A400.epub        |   424 |     107047 |         2204 | 世紀百強 |
+| 徐速                                 | 星星·月亮·太陽                    | http://haodoo.net/?M=d&P=A554.epub        |   424 |     172904 |         2586 | 世紀百強 |
 | 林清玄                               | 突破人生困境的寓言                  | http://haodoo.net/?M=d&P=B12I4.epub       |   425 |      40463 |         1560 |          |
 | 王溢嘉                               | 世說心語一○○個生命的啟示          | http://haodoo.net/?M=d&P=B12I9.epub       |   425 |      60595 |         1943 |          |
 | 黃易                                 | 文明之謎                            | http://haodoo.net/?M=d&P=B1576.epub       |   425 |      38341 |         1614 |          |
@@ -1606,8 +1606,8 @@ expect to encounter per sentence or page.
 | 阿嘉莎．克莉絲蒂                     | 三幕悲劇                            | http://haodoo.net/?M=d&P=EV16S1.epub      |   425 |      94681 |         1984 |          |
 | 喬治．喬納斯                         | 天譴行動                            | http://haodoo.net/?M=d&P=H16F6.epub       |   425 |     210329 |         2380 |          |
 | 喬治．喬納斯                         | 天譴行動                            | http://haodoo.net/?M=d&P=HV16F6.epub      |   425 |     210329 |         2380 |          |
-| 古龍                                 | 楚留香傳奇‧借屍還魂                 | http://haodoo.net/?M=d&P=I0113.epub       |   425 |      84224 |         1808 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧借屍還魂                 | http://haodoo.net/?M=d&P=IV0113.epub      |   425 |      84224 |         1808 | 世界百強 |
+| 古龍                                 | 楚留香傳奇‧借屍還魂                 | http://haodoo.net/?M=d&P=I0113.epub       |   425 |      84224 |         1808 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧借屍還魂                 | http://haodoo.net/?M=d&P=IV0113.epub      |   425 |      84224 |         1808 | 世紀百強 |
 | 柯鈞                                 | 人生哲理枕邊書                      | http://haodoo.net/?M=d&P=B14P7.epub       |   426 |     120933 |         2455 |          |
 | 柯鈞                                 | 人生哲理枕邊書                      | http://haodoo.net/?M=d&P=BV14P7.epub      |   426 |     120933 |         2455 |          |
 | 東野圭吾                             | 誰殺了她                            | http://haodoo.net/?M=d&P=E13F1.epub       |   426 |      95127 |         1807 |          |
@@ -1700,7 +1700,7 @@ expect to encounter per sentence or page.
 | 米蘭‧昆德拉                          | 生命中不能承受之輕                  | http://haodoo.net/?M=d&P=HV15S3.epub      |   428 |     136077 |         2391 |          |
 | 艾西莫夫                             | 基地系列三：第二基地                | http://haodoo.net/?M=d&P=I0106c.epub      |   428 |     133337 |         2290 |          |
 | 艾西莫夫                             | 基地系列三：第二基地                | http://haodoo.net/?M=d&P=IV0106c.epub     |   428 |     133337 |         2290 |          |
-| 老舍                                 | 駱駝祥子                            | http://haodoo.net/?M=d&P=A401.epub        |   428 |     116632 |         2126 | 世界百強 |
+| 老舍                                 | 駱駝祥子                            | http://haodoo.net/?M=d&P=A401.epub        |   428 |     116632 |         2126 | 世紀百強 |
 | 季羡林                               | 真話能走多遠                        | http://haodoo.net/?M=d&P=B13B1.epub       |   429 |     177495 |         2889 |          |
 | 劉墉                                 | 冷眼看人生                          | http://haodoo.net/?M=d&P=B15I5.epub       |   429 |      35921 |         1669 |          |
 | 季羡林                               | 真話能走多遠                        | http://haodoo.net/?M=d&P=BV13B1.epub      |   429 |     177495 |         2889 |          |
@@ -1787,7 +1787,7 @@ expect to encounter per sentence or page.
 | 許地山                               | 許地山小說選集                      | http://haodoo.net/?M=d&P=HV1583.epub      |   430 |      98130 |         2263 |          |
 | 卡爾．麥                             | 洞窟幽靈                            | http://haodoo.net/?M=d&P=HV15V0.epub      |   430 |     200663 |         2356 |          |
 | 周愚                                 | 歸來的軍刀                          | http://haodoo.net/?M=d&P=I0832.epub       |   430 |      51305 |         1692 |          |
-| 余華                                 | 活著                                | http://haodoo.net/?M=d&P=A471.epub        |   430 |      76216 |         1579 | 世界百強 |
+| 余華                                 | 活著                                | http://haodoo.net/?M=d&P=A471.epub        |   430 |      76216 |         1579 | 世紀百強 |
 | 姜貴                                 | 旋風                                | http://haodoo.net/?M=d&P=AV502.epub       |   431 |     240131 |         2787 |          |
 | 徐訏                                 | 風蕭蕭                              | http://haodoo.net/?M=d&P=AV566.epub       |   431 |     224945 |         2459 |          |
 | 李璞良                               | 轉個彎，世界會更大                  | http://haodoo.net/?M=d&P=B1311.epub       |   431 |      37550 |         1739 |          |
@@ -1821,9 +1821,9 @@ expect to encounter per sentence or page.
 | 倪匡                                 | 十三太保                            | http://haodoo.net/?M=d&P=IV1048.epub      |   431 |      65264 |         1699 |          |
 | 東野圭吾                             | 湖邊凶殺案                          | http://haodoo.net/?M=d&P=IV10E2.epub      |   431 |      76532 |         1593 |          |
 | 于東樓                               | 短刀行                              | http://haodoo.net/?M=d&P=IV10K5.epub      |   431 |     209656 |         2294 |          |
-| 姜貴                                 | 旋風                                | http://haodoo.net/?M=d&P=A502.epub        |   431 |     240131 |         2787 | 世界百強 |
-| 徐訏                                 | 風蕭蕭                              | http://haodoo.net/?M=d&P=A566.epub        |   431 |     224945 |         2459 | 世界百強 |
-| 蘇偉貞                               | 沉默之島                            | http://haodoo.net/?M=d&P=A578.epub        |   431 |     101868 |         1946 | 世界百強 |
+| 姜貴                                 | 旋風                                | http://haodoo.net/?M=d&P=A502.epub        |   431 |     240131 |         2787 | 世紀百強 |
+| 徐訏                                 | 風蕭蕭                              | http://haodoo.net/?M=d&P=A566.epub        |   431 |     224945 |         2459 | 世紀百強 |
+| 蘇偉貞                               | 沉默之島                            | http://haodoo.net/?M=d&P=A578.epub        |   431 |     101868 |         1946 | 世紀百強 |
 | 南懷瑾                               | 藥師經的濟世觀                      | http://haodoo.net/?M=d&P=B0814.epub       |   432 |     131713 |         2137 |          |
 | 羅曼．羅蘭                           | 托爾斯泰傳                          | http://haodoo.net/?M=d&P=B1463.epub       |   432 |      61247 |         1880 |          |
 | 南懷瑾                               | 藥師經的濟世觀                      | http://haodoo.net/?M=d&P=BV0814.epub      |   432 |     131713 |         2137 |          |
@@ -2017,8 +2017,8 @@ expect to encounter per sentence or page.
 | 艾西莫夫                             | 基地後傳：基地邊緣                  | http://haodoo.net/?M=d&P=IV1023.epub      |   437 |     249717 |         2462 |          |
 | 梁羽生                               | 劍網塵絲                            | http://haodoo.net/?M=d&P=IV10M1.epub      |   437 |     482964 |         2854 |          |
 | 李德哈特                             | 間接路線                            | http://haodoo.net/?M=d&P=J090719a.epub    |   437 |     302548 |         2075 |          |
-| 蕭紅                                 | 呼蘭河傳                            | http://haodoo.net/?M=d&P=A434.epub        |   437 |      89511 |         1961 | 世界百強 |
-| 瓊瑤                                 | 窗外                                | http://haodoo.net/?M=d&P=F320.epub        |   437 |     139689 |         2321 | 世界百強 |
+| 蕭紅                                 | 呼蘭河傳                            | http://haodoo.net/?M=d&P=A434.epub        |   437 |      89511 |         1961 | 世紀百強 |
+| 瓊瑤                                 | 窗外                                | http://haodoo.net/?M=d&P=F320.epub        |   437 |     139689 |         2321 | 世紀百強 |
 | 吳洪激                               | 精妙說話技巧                        | http://haodoo.net/?M=d&P=B12C1.epub       |   438 |      65959 |         2031 |          |
 | 吳洪激                               | 精妙說話技巧                        | http://haodoo.net/?M=d&P=BV12C1.epub      |   438 |      65959 |         2031 |          |
 | 松本清張                             | 黃色風土                            | http://haodoo.net/?M=d&P=E1308.epub       |   438 |     140283 |         1999 |          |
@@ -2106,8 +2106,8 @@ expect to encounter per sentence or page.
 | 水野良                               | 羅德斯島戰記五．王者聖戰            | http://haodoo.net/?M=d&P=IV0975e.epub     |   439 |     114842 |         1905 |          |
 | 張愛玲                               | 秧歌                                | http://haodoo.net/?M=d&P=IV1053.epub      |   439 |      49264 |         1828 |          |
 | 玉翎燕                               | 木劍驚鴻                            | http://haodoo.net/?M=d&P=IV10F5.epub      |   439 |     296993 |         2864 |          |
-| 無名氏                               | 北極風情畫                          | http://haodoo.net/?M=d&P=A548.epub        |   439 |      83872 |         2186 | 世界百強 |
-| 黃凡                                 | 賴索                                | http://haodoo.net/?M=d&P=A549.epub        |   439 |      13468 |         1094 | 世界百強 |
+| 無名氏                               | 北極風情畫                          | http://haodoo.net/?M=d&P=A548.epub        |   439 |      83872 |         2186 | 世紀百強 |
+| 黃凡                                 | 賴索                                | http://haodoo.net/?M=d&P=A549.epub        |   439 |      13468 |         1094 | 世紀百強 |
 | 柏楊                                 | 柏楊回憶錄                          | http://haodoo.net/?M=d&P=C1337.epub       |   440 |     152611 |         2713 |          |
 | 柏楊                                 | 柏楊回憶錄                          | http://haodoo.net/?M=d&P=CV1337.epub      |   440 |     152611 |         2713 |          |
 | 金庸                                 | 新修版白馬嘯西風                    | http://haodoo.net/?M=d&P=D10P6.epub       |   440 |      58598 |         1724 |          |
@@ -2197,8 +2197,8 @@ expect to encounter per sentence or page.
 | 梁羽生                               | 幻劍靈旗                            | http://haodoo.net/?M=d&P=IV10M5.epub      |   442 |     271768 |         2556 |          |
 | 嚴沁                                 | 晨星                                | http://haodoo.net/?M=d&P=F16N4.epub       |   442 |     139223 |         2135 |          |
 | 嚴沁                                 | 晨星                                | http://haodoo.net/?M=d&P=FV16N4.epub      |   442 |     139223 |         2135 |          |
-| 古龍                                 | 楚留香傳奇‧血海飄香                 | http://haodoo.net/?M=d&P=D493.epub        |   442 |     119352 |         2157 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧血海飄香                 | http://haodoo.net/?M=d&P=DV493.epub       |   442 |     119352 |         2157 | 世界百強 |
+| 古龍                                 | 楚留香傳奇‧血海飄香                 | http://haodoo.net/?M=d&P=D493.epub        |   442 |     119352 |         2157 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧血海飄香                 | http://haodoo.net/?M=d&P=DV493.epub       |   442 |     119352 |         2157 | 世紀百強 |
 | 吳趼人                               | 二十年目睹之怪現狀                  | http://haodoo.net/?M=d&P=AV569.epub       |   443 |     464909 |         3409 |          |
 | 郁達夫                               | 歸航                                | http://haodoo.net/?M=d&P=B12C2.epub       |   443 |      99617 |         2450 |          |
 | 伊塔羅．卡爾維諾                     | 如果在冬夜，一個旅人                | http://haodoo.net/?M=d&P=B1624.epub       |   443 |     133898 |         2530 |          |
@@ -2248,7 +2248,7 @@ expect to encounter per sentence or page.
 | 六六                                 | 蝸居                                | http://haodoo.net/?M=d&P=I10M3.epub       |   443 |     193208 |         2613 |          |
 | 南派三叔                             | 盜墓筆記五．蛇沼鬼城                | http://haodoo.net/?M=d&P=IV0108e.epub     |   443 |     343334 |         2777 |          |
 | 六六                                 | 蝸居                                | http://haodoo.net/?M=d&P=IV10M3.epub      |   443 |     193208 |         2613 |          |
-| 吳趼人                               | 二十年目睹之怪現狀                  | http://haodoo.net/?M=d&P=A569.epub        |   443 |     464909 |         3409 | 世界百強 |
+| 吳趼人                               | 二十年目睹之怪現狀                  | http://haodoo.net/?M=d&P=A569.epub        |   443 |     464909 |         3409 | 世紀百強 |
 | 臺靜農                               | 地之子                              | http://haodoo.net/?M=d&P=AV551.epub       |   444 |      56755 |         1989 |          |
 | 師陀                                 | 果園城記                            | http://haodoo.net/?M=d&P=AV580.epub       |   444 |      67452 |         2127 |          |
 | 梁安仁                               | 過客與歸人                          | http://haodoo.net/?M=d&P=B13P3.epub       |   444 |     154511 |         2761 |          |
@@ -2280,8 +2280,8 @@ expect to encounter per sentence or page.
 | 內田康夫                             | 哭泣的遺骨                          | http://haodoo.net/?M=d&P=IV0427.epub      |   444 |     107809 |         2120 |          |
 | 倪匡                                 | 雷庫驚魂                            | http://haodoo.net/?M=d&P=IV1099.epub      |   444 |      51419 |         1549 |          |
 | 東野圭吾                             | 布魯特斯的心臟                      | http://haodoo.net/?M=d&P=IV10K4.epub      |   444 |     113883 |         2064 |          |
-| 臺靜農                               | 地之子                              | http://haodoo.net/?M=d&P=A551.epub        |   444 |      56755 |         1989 | 世界百強 |
-| 師陀                                 | 果園城記                            | http://haodoo.net/?M=d&P=A580.epub        |   444 |      67452 |         2127 | 世界百強 |
+| 臺靜農                               | 地之子                              | http://haodoo.net/?M=d&P=A551.epub        |   444 |      56755 |         1989 | 世紀百強 |
+| 師陀                                 | 果園城記                            | http://haodoo.net/?M=d&P=A580.epub        |   444 |      67452 |         2127 | 世紀百強 |
 | 威廉．Ｈ．麥加菲                     | 慈悲心柔軟手                        | http://haodoo.net/?M=d&P=B11C8.epub       |   445 |      28110 |         1479 |          |
 | 許地山                               | 空山靈雨                            | http://haodoo.net/?M=d&P=B12C6.epub       |   445 |      24854 |         1361 |          |
 | 達摩難陀                             | 如何無憂無懼過生活                  | http://haodoo.net/?M=d&P=B528.epub        |   445 |      74969 |         1931 |          |
@@ -2313,7 +2313,7 @@ expect to encounter per sentence or page.
 | 劉慈欣                               | 三體Ⅲ                              | http://haodoo.net/?M=d&P=GV16E1c.epub     |   445 |     327113 |         2710 |          |
 | 井上靖                               | 月光                                | http://haodoo.net/?M=d&P=H16R5.epub       |   445 |      72059 |         1749 |          |
 | 井上靖                               | 月光                                | http://haodoo.net/?M=d&P=HV16R5.epub      |   445 |      72059 |         1749 |          |
-| 林海音                               | 城南舊事                            | http://haodoo.net/?M=d&P=A570.epub        |   445 |      56429 |         1568 | 世界百強 |
+| 林海音                               | 城南舊事                            | http://haodoo.net/?M=d&P=A570.epub        |   445 |      56429 |         1568 | 世紀百強 |
 | 阿城                                 | 棋王．樹王．孩子王                  | http://haodoo.net/?M=d&P=AV391.epub       |   446 |      73477 |         1922 |          |
 | 紅塵少年．幽谷老人                   | 人生哲理故事集粹                    | http://haodoo.net/?M=d&P=B12E0.epub       |   446 |      92906 |         2263 |          |
 | 權雅之                               | 性愛之美                            | http://haodoo.net/?M=d&P=B375.epub        |   446 |     200873 |         2481 |          |
@@ -2341,7 +2341,7 @@ expect to encounter per sentence or page.
 | 梁羽生                               | 彈指驚雷                            | http://haodoo.net/?M=d&P=I10L9.epub       |   446 |     397553 |         2858 |          |
 | 橫溝正史                             | 黑貓酒店殺人事件                    | http://haodoo.net/?M=d&P=IV10E7.epub      |   446 |      34462 |         1269 |          |
 | 梁羽生                               | 彈指驚雷                            | http://haodoo.net/?M=d&P=IV10L9.epub      |   446 |     397553 |         2858 |          |
-| 阿城                                 | 棋王．樹王．孩子王                  | http://haodoo.net/?M=d&P=A391.epub        |   446 |      73477 |         1922 | 世界百強 |
+| 阿城                                 | 棋王．樹王．孩子王                  | http://haodoo.net/?M=d&P=A391.epub        |   446 |      73477 |         1922 | 世紀百強 |
 | 南懷瑾                               | 圓覺經略說                          | http://haodoo.net/?M=d&P=B0813.epub       |   447 |     155438 |         1962 |          |
 | 司馬遼太郎                           | 宮本武藏                            | http://haodoo.net/?M=d&P=C15D2.epub       |   447 |      66322 |         1853 |          |
 | 司馬遼太郎                           | 宮本武藏                            | http://haodoo.net/?M=d&P=CV15D2.epub      |   447 |      66322 |         1853 |          |
@@ -2428,7 +2428,7 @@ expect to encounter per sentence or page.
 | 阿嘉莎．克莉絲蒂                     | 殘光夜影                            | http://haodoo.net/?M=d&P=E16Q1.epub       |   448 |      68842 |         2004 |          |
 | 阿嘉莎．克莉絲蒂                     | 巴格達風雲                          | http://haodoo.net/?M=d&P=EV16G8.epub      |   448 |     113232 |         2306 |          |
 | 阿嘉莎．克莉絲蒂                     | 殘光夜影                            | http://haodoo.net/?M=d&P=EV16Q1.epub      |   448 |      68842 |         2004 |          |
-| 鍾肇政                               | 臺灣人三部曲二：滄溟                | http://haodoo.net/?M=d&P=A16M7.epub       |   448 |     153328 |         2533 | 世界百強 |
+| 鍾肇政                               | 臺灣人三部曲二：滄溟                | http://haodoo.net/?M=d&P=A16M7.epub       |   448 |     153328 |         2533 | 世紀百強 |
 | 馮至                                 | 伍子胥：從城父到吳市                | http://haodoo.net/?M=d&P=C10T5.epub       |   449 |      31176 |         1495 |          |
 | 馮至                                 | 伍子胥：從城父到吳市                | http://haodoo.net/?M=d&P=CV10T5.epub      |   449 |      31176 |         1495 |          |
 | 黃鷹                                 | 大俠沈勝衣                          | http://haodoo.net/?M=d&P=D1125.epub       |   449 |     174141 |         2164 |          |
@@ -2550,7 +2550,7 @@ expect to encounter per sentence or page.
 | 南派三叔                             | 盜墓筆記六．陰山古樓                | http://haodoo.net/?M=d&P=I0108f.epub      |   451 |     172058 |         2476 |          |
 | 古龍                                 | 失魂引                              | http://haodoo.net/?M=d&P=I09E3.epub       |   451 |     165418 |         2354 |          |
 | 南派三叔                             | 盜墓筆記六．陰山古樓                | http://haodoo.net/?M=d&P=IV0108f.epub     |   451 |     172058 |         2476 |          |
-| 林語堂                               | 京華煙雲                            | http://haodoo.net/?M=d&P=A541.epub        |   451 |     463034 |         3347 | 世界百強 |
+| 林語堂                               | 京華煙雲                            | http://haodoo.net/?M=d&P=A541.epub        |   451 |     463034 |         3347 | 世紀百強 |
 | 琴涵                                 | 圓滿珍珠                            | http://haodoo.net/?M=d&P=B12N5.epub       |   452 |      37004 |         1658 |          |
 | 林語堂                               | 生活的藝術                          | http://haodoo.net/?M=d&P=B1344.epub       |   452 |     223628 |         3144 |          |
 | 老子                                 | 老子道德經                          | http://haodoo.net/?M=d&P=B538.epub        |   452 |      54622 |         1544 |          |
@@ -2638,7 +2638,7 @@ expect to encounter per sentence or page.
 | 諸葛青雲                             | 怒馬香車                            | http://haodoo.net/?M=d&P=IV10I3.epub      |   453 |     220191 |         2605 |          |
 | 賈德諾                               | 池畔殺機                            | http://haodoo.net/?M=d&P=E16I5.epub       |   453 |      68389 |         1575 |          |
 | 賈德諾                               | 池畔殺機                            | http://haodoo.net/?M=d&P=EV16I5.epub      |   453 |      68389 |         1575 |          |
-| 浩然                                 | 艷陽天二                            | http://haodoo.net/?M=d&P=A574b.epub       |   453 |     239118 |         2411 | 世界百強 |
+| 浩然                                 | 艷陽天二                            | http://haodoo.net/?M=d&P=A574b.epub       |   453 |     239118 |         2411 | 世紀百強 |
 | 陳若曦                               | 尹縣長                              | http://haodoo.net/?M=d&P=AV546.epub       |   454 |      65385 |         2111 |          |
 | 夏元瑜                               | 弘揚飯統                            | http://haodoo.net/?M=d&P=B12G4.epub       |   454 |      70386 |         2245 |          |
 | 梁曉聲                               | 一個紅衛兵的自白                    | http://haodoo.net/?M=d&P=C13C2.epub       |   454 |     178297 |         2798 |          |
@@ -2681,9 +2681,9 @@ expect to encounter per sentence or page.
 | 東方玉                               | 玉辟邪                              | http://haodoo.net/?M=d&P=IV1056.epub      |   454 |     325173 |         2687 |          |
 | 朱羽                                 | 邊城落日                            | http://haodoo.net/?M=d&P=H16G4.epub       |   454 |     167762 |         2394 |          |
 | 朱羽                                 | 邊城落日                            | http://haodoo.net/?M=d&P=HV16G4.epub      |   454 |     167762 |         2394 |          |
-| 陳若曦                               | 尹縣長                              | http://haodoo.net/?M=d&P=A546.epub        |   454 |      65385 |         2111 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧大沙漠                   | http://haodoo.net/?M=d&P=D494.epub        |   454 |     161457 |         2284 | 世界百強 |
-| 古龍                                 | 楚留香傳奇‧大沙漠                   | http://haodoo.net/?M=d&P=DV494.epub       |   454 |     161457 |         2284 | 世界百強 |
+| 陳若曦                               | 尹縣長                              | http://haodoo.net/?M=d&P=A546.epub        |   454 |      65385 |         2111 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧大沙漠                   | http://haodoo.net/?M=d&P=D494.epub        |   454 |     161457 |         2284 | 世紀百強 |
+| 古龍                                 | 楚留香傳奇‧大沙漠                   | http://haodoo.net/?M=d&P=DV494.epub       |   454 |     161457 |         2284 | 世紀百強 |
 | 紫夫                                 | 性福女人                            | http://haodoo.net/?M=d&P=B379.epub        |   455 |      94044 |         2412 |          |
 | 紫夫                                 | 性福女人                            | http://haodoo.net/?M=d&P=BV379.epub       |   455 |      94044 |         2412 |          |
 | 楊繼繩                               | 墓碑‧卷上                           | http://haodoo.net/?M=d&P=C1122a.epub      |   455 |     402301 |         2816 |          |
@@ -2781,8 +2781,8 @@ expect to encounter per sentence or page.
 | 溫斯頓．格盧姆                       | 阿甘正傳                            | http://haodoo.net/?M=d&P=IV0818.epub      |   457 |      95297 |         2188 |          |
 | 陽光晴子                             | 桂花落                              | http://haodoo.net/?M=d&P=J090814Y1.epub   |   457 |     117199 |         2293 |          |
 | 張系國                               | 棋王                                | http://haodoo.net/?M=d&P=AV472.epub       |   457 |      69166 |         1980 |          |
-| 張系國                               | 棋王                                | http://haodoo.net/?M=d&P=A472.epub        |   457 |      69167 |         1979 | 世界百強 |
-| 吳濁流                               | 亞細亞的孤兒                        | http://haodoo.net/?M=d&P=A480.epub        |   457 |     124301 |         2667 | 世界百強 |
+| 張系國                               | 棋王                                | http://haodoo.net/?M=d&P=A472.epub        |   457 |      69167 |         1979 | 世紀百強 |
+| 吳濁流                               | 亞細亞的孤兒                        | http://haodoo.net/?M=d&P=A480.epub        |   457 |     124301 |         2667 | 世紀百強 |
 | 魯迅                                 | 彷徨                                | http://haodoo.net/?M=d&P=AV436.epub       |   458 |      65918 |         2139 |          |
 | 阿城                                 | 常識與通識                          | http://haodoo.net/?M=d&P=B12G2.epub       |   458 |      71560 |         2181 |          |
 | 當年明月                             | 明朝那些事兒一                      | http://haodoo.net/?M=d&P=C1476a.epub      |   458 |     210063 |         2582 |          |
@@ -2805,7 +2805,7 @@ expect to encounter per sentence or page.
 | 馬榮成                               | 風雲小說五：再見無名                | http://haodoo.net/?M=d&P=J081110e.epub    |   458 |     232872 |         2544 |          |
 | 安伯托‧艾可                          | 玫瑰的名字                          | http://haodoo.net/?M=d&P=J090909.epub     |   458 |     265753 |         2790 |          |
 | 馬榮成                               | 風雲小說五：再見無名                | http://haodoo.net/?M=d&P=JV081110e.epub   |   458 |     232872 |         2544 |          |
-| 魯迅                                 | 彷徨                                | http://haodoo.net/?M=d&P=A436.epub        |   458 |      65918 |         2139 | 世界百強 |
+| 魯迅                                 | 彷徨                                | http://haodoo.net/?M=d&P=A436.epub        |   458 |      65918 |         2139 | 世紀百強 |
 | 紀榮起、張平主編                     | 人類神秘現象的發現之旅              | http://haodoo.net/?M=d&P=B14Q8.epub       |   459 |      80393 |         2132 |          |
 | 陳若曦                               | 文革雜憶                            | http://haodoo.net/?M=d&P=B1668.epub       |   459 |      83525 |         2347 |          |
 | 紀榮起、張平主編                     | 人類神秘現象的發現之旅              | http://haodoo.net/?M=d&P=BV14Q8.epub      |   459 |      80393 |         2132 |          |
@@ -2903,7 +2903,7 @@ expect to encounter per sentence or page.
 | 張愛玲                               | 秧歌                                | http://haodoo.net/?M=d&P=H16K8.epub       |   461 |      72345 |         2134 |          |
 | 湯姆．克蘭西                         | 紅色風暴                            | http://haodoo.net/?M=d&P=HV16H0.epub      |   461 |     448840 |         2616 |          |
 | 張愛玲                               | 秧歌                                | http://haodoo.net/?M=d&P=HV16K8.epub      |   461 |      72345 |         2134 |          |
-| 張潔                                 | 沉重的翅膀                          | http://haodoo.net/?M=d&P=A11M9.epub       |   461 |     186769 |         2794 | 世界百強 |
+| 張潔                                 | 沉重的翅膀                          | http://haodoo.net/?M=d&P=A11M9.epub       |   461 |     186769 |         2794 | 世紀百強 |
 | 星雲法師                             | 石頭路滑                            | http://haodoo.net/?M=d&P=B159.epub        |   462 |      36739 |         1453 |          |
 | 星雲法師                             | 石頭路滑                            | http://haodoo.net/?M=d&P=BV159.epub       |   462 |      36739 |         1453 |          |
 | 龍應台                               | 大江大海一九四九                    | http://haodoo.net/?M=d&P=C1004.epub       |   462 |     126836 |         2695 |          |
@@ -2973,7 +2973,7 @@ expect to encounter per sentence or page.
 | 賈德諾                               | 蘇菲亞之謎                          | http://haodoo.net/?M=d&P=E16I9.epub       |   463 |      58878 |         1528 |          |
 | 賈德諾                               | 恐嚇者                              | http://haodoo.net/?M=d&P=EV16I3.epub      |   463 |      69037 |         1640 |          |
 | 賈德諾                               | 蘇菲亞之謎                          | http://haodoo.net/?M=d&P=EV16I9.epub      |   463 |      58878 |         1528 |          |
-| 鄧克保                               | 異域                                | http://haodoo.net/?M=d&P=A526.epub        |   463 |      84100 |         2249 | 世界百強 |
+| 鄧克保                               | 異域                                | http://haodoo.net/?M=d&P=A526.epub        |   463 |      84100 |         2249 | 世紀百強 |
 | 王藍                                 | 藍與黑                              | http://haodoo.net/?M=d&P=AV545.epub       |   464 |     248777 |         3061 |          |
 | 徐志摩                               | 再別康橋                            | http://haodoo.net/?M=d&P=B12C9.epub       |   464 |      76388 |         2481 |          |
 | 瑪洛．摩根                           | 曠野的聲音                          | http://haodoo.net/?M=d&P=B1326.epub       |   464 |      83804 |         2276 |          |
@@ -3017,7 +3017,7 @@ expect to encounter per sentence or page.
 | 賈德諾                               | 死亡陷阱                            | http://haodoo.net/?M=d&P=EV16I4.epub      |   464 |      70026 |         1689 |          |
 | 陳舜臣                               | 玉嶺的嘆息                          | http://haodoo.net/?M=d&P=H16P1.epub       |   464 |      59754 |         1950 |          |
 | 陳舜臣                               | 玉嶺的嘆息                          | http://haodoo.net/?M=d&P=HV16P1.epub      |   464 |      59754 |         1950 |          |
-| 王藍                                 | 藍與黑                              | http://haodoo.net/?M=d&P=A545.epub        |   464 |     248777 |         3061 | 世界百強 |
+| 王藍                                 | 藍與黑                              | http://haodoo.net/?M=d&P=A545.epub        |   464 |     248777 |         3061 | 世紀百強 |
 | 浩然                                 | 艷陽天三                            | http://haodoo.net/?M=d&P=A574c.epub       |   465 |     270451 |         2430 |          |
 | 浩然                                 | 艷陽天三                            | http://haodoo.net/?M=d&P=AV574c.epub      |   465 |     270451 |         2430 |          |
 | 羅伯特．海格斯壯                     | 勝券在握                            | http://haodoo.net/?M=d&P=B1644.epub       |   465 |     160461 |         1749 |          |
@@ -3053,7 +3053,7 @@ expect to encounter per sentence or page.
 | 高陽                                 | 粉墨春秋                            | http://haodoo.net/?M=d&P=IV1075.epub      |   465 |     435691 |         3527 |          |
 | 肯．福萊特                           | 寒鴉行動                            | http://haodoo.net/?M=d&P=H16J8.epub       |   465 |     212686 |         2549 |          |
 | 肯．福萊特                           | 寒鴉行動                            | http://haodoo.net/?M=d&P=HV16J8.epub      |   465 |     212686 |         2549 |          |
-| 賈平凹                               | 浮躁                                | http://haodoo.net/?M=d&P=A539.epub        |   465 |     244925 |         2935 | 世界百強 |
+| 賈平凹                               | 浮躁                                | http://haodoo.net/?M=d&P=A539.epub        |   465 |     244925 |         2935 | 世紀百強 |
 | 李劼人                               | 死水微瀾                            | http://haodoo.net/?M=d&P=AV483.epub       |   466 |     113588 |         2408 |          |
 | 余秋雨                               | 行者無疆                            | http://haodoo.net/?M=d&P=B15D3.epub       |   466 |     196910 |         2878 |          |
 | 林語堂                               | 中國人的生活智慧                    | http://haodoo.net/?M=d&P=B15Z0.epub       |   466 |     146798 |         2914 |          |
@@ -3088,7 +3088,7 @@ expect to encounter per sentence or page.
 | 梭羅                                 | 湖濱散記                            | http://haodoo.net/?M=d&P=BV16P8.epub      |   466 |     176503 |         2919 |          |
 | 王家祥                               | 金福樓夜話                          | http://haodoo.net/?M=d&P=G16R9.epub       |   466 |      41493 |         1640 |          |
 | 王家祥                               | 金福樓夜話                          | http://haodoo.net/?M=d&P=GV16R9.epub      |   466 |      41493 |         1640 |          |
-| 李劼人                               | 死水微瀾                            | http://haodoo.net/?M=d&P=A483.epub        |   466 |     113588 |         2408 | 世界百強 |
+| 李劼人                               | 死水微瀾                            | http://haodoo.net/?M=d&P=A483.epub        |   466 |     113588 |         2408 | 世紀百強 |
 | 王鼎鈞                               | 左心房漩渦                          | http://haodoo.net/?M=d&P=B1203.epub       |   467 |      69715 |         2410 |          |
 | 杏林子                               | 一路逆風                            | http://haodoo.net/?M=d&P=B13I1.epub       |   467 |      49928 |         2096 |          |
 | 漢寶德                               | 風情與文物                          | http://haodoo.net/?M=d&P=B16C0.epub       |   467 |      84138 |         2142 |          |
@@ -3234,7 +3234,7 @@ expect to encounter per sentence or page.
 | 溫瑞安                               | 殺楚                                | http://haodoo.net/?M=d&P=IV0808.epub      |   470 |     107593 |         2353 |          |
 | 南懷瑾                               | 孟子旁通                            | http://haodoo.net/?M=d&P=IV0820.epub      |   470 |     172021 |         2763 |          |
 | 馬榮成 丹青                          | 風雲小說十一：十二驚惶              | http://haodoo.net/?M=d&P=IV10M9.epub      |   470 |     114256 |         2047 |          |
-| 沈從文                               | 邊城                                | http://haodoo.net/?M=d&P=A394.epub        |   470 |      46451 |         1673 | 世界百強 |
+| 沈從文                               | 邊城                                | http://haodoo.net/?M=d&P=A394.epub        |   470 |      46451 |         1673 | 世紀百強 |
 | 西西                                 | 我城                                | http://haodoo.net/?M=d&P=AV10P4.epub      |   471 |     103087 |         2227 |          |
 | 聶華苓                               | 桑青與桃紅                          | http://haodoo.net/?M=d&P=AV1144.epub      |   471 |      92204 |         2305 |          |
 | 劉以鬯                               | 酒徒                                | http://haodoo.net/?M=d&P=AV534.epub       |   471 |      94473 |         2447 |          |
@@ -3265,10 +3265,10 @@ expect to encounter per sentence or page.
 | 隨波逐流                             | 隨波逐流之一代軍師四                | http://haodoo.net/?M=d&P=I1010d.epub      |   471 |     190437 |         2664 |          |
 | 聶華苓                               | 臺灣軼事                            | http://haodoo.net/?M=d&P=H16R1.epub       |   471 |      59074 |         2033 |          |
 | 聶華苓                               | 臺灣軼事                            | http://haodoo.net/?M=d&P=HV16R1.epub      |   471 |      59074 |         2033 |          |
-| 西西                                 | 我城                                | http://haodoo.net/?M=d&P=A10P4.epub       |   471 |     103087 |         2227 | 世界百強 |
-| 聶華苓                               | 桑青與桃紅                          | http://haodoo.net/?M=d&P=A1144.epub       |   471 |      92204 |         2305 | 世界百強 |
-| 劉以鬯                               | 酒徒                                | http://haodoo.net/?M=d&P=A534.epub        |   471 |      94473 |         2447 | 世界百強 |
-| 高陽                                 | 胡雪巖                              | http://haodoo.net/?M=d&P=C398a.epub       |   471 |     589822 |         3376 | 世界百強 |
+| 西西                                 | 我城                                | http://haodoo.net/?M=d&P=A10P4.epub       |   471 |     103087 |         2227 | 世紀百強 |
+| 聶華苓                               | 桑青與桃紅                          | http://haodoo.net/?M=d&P=A1144.epub       |   471 |      92204 |         2305 | 世紀百強 |
+| 劉以鬯                               | 酒徒                                | http://haodoo.net/?M=d&P=A534.epub        |   471 |      94473 |         2447 | 世紀百強 |
+| 高陽                                 | 胡雪巖                              | http://haodoo.net/?M=d&P=C398a.epub       |   471 |     589822 |         3376 | 世紀百強 |
 | 吳啟泰                               | 日落紫禁城                          | http://haodoo.net/?M=d&P=C294.epub        |   472 |     428273 |         2824 |          |
 | 吳啟泰                               | 日落紫禁城                          | http://haodoo.net/?M=d&P=CV294.epub       |   472 |     428273 |         2824 |          |
 | 黃鷹                                 | 鬼簫                                | http://haodoo.net/?M=d&P=D1174.epub       |   472 |      53378 |         1505 |          |
@@ -3340,7 +3340,7 @@ expect to encounter per sentence or page.
 | 唐德剛                               | 袁氏當國                            | http://haodoo.net/?M=d&P=IV09A1.epub      |   473 |     117674 |         2463 |          |
 | 東方玉                               | 白衣俠                              | http://haodoo.net/?M=d&P=IV1039.epub      |   473 |     137436 |         2194 |          |
 | 梁羽生                               | 瀚海雄風                            | http://haodoo.net/?M=d&P=IV1064.epub      |   473 |     507540 |         3036 |          |
-| 葉聖陶                               | 倪煥之                              | http://haodoo.net/?M=d&P=A576.epub        |   473 |     138009 |         2636 | 世界百強 |
+| 葉聖陶                               | 倪煥之                              | http://haodoo.net/?M=d&P=A576.epub        |   473 |     138009 |         2636 | 世紀百強 |
 | 張愛玲                               | 半生緣                              | http://haodoo.net/?M=d&P=AV431.epub       |   474 |     192569 |         2497 |          |
 | 王力雄                               | 黃禍                                | http://haodoo.net/?M=d&P=AV537.epub       |   474 |     413702 |         3326 |          |
 | 星雲大師                             | 寬容的價值                          | http://haodoo.net/?M=d&P=B14D0.epub       |   474 |      50040 |         1949 |          |
@@ -3373,8 +3373,8 @@ expect to encounter per sentence or page.
 | 陽光晴子                             | 我來自匈奴                          | http://haodoo.net/?M=d&P=JV090814Y2.epub  |   474 |      59898 |         1963 |          |
 | 陳渠蘭                               | 二次世界大戰間諜秘史                | http://haodoo.net/?M=d&P=C16K0.epub       |   474 |      92722 |         1990 |          |
 | 陳渠蘭                               | 二次世界大戰間諜秘史                | http://haodoo.net/?M=d&P=CV16K0.epub      |   474 |      92722 |         1990 |          |
-| 張愛玲                               | 半生緣                              | http://haodoo.net/?M=d&P=A431.epub        |   474 |     192569 |         2497 | 世界百強 |
-| 王力雄                               | 黃禍                                | http://haodoo.net/?M=d&P=A537.epub        |   474 |     413702 |         3326 | 世界百強 |
+| 張愛玲                               | 半生緣                              | http://haodoo.net/?M=d&P=A431.epub        |   474 |     192569 |         2497 | 世紀百強 |
+| 王力雄                               | 黃禍                                | http://haodoo.net/?M=d&P=A537.epub        |   474 |     413702 |         3326 | 世紀百強 |
 | 鄭豐喜                               | 汪洋中的一條船                      | http://haodoo.net/?M=d&P=B11L2.epub       |   475 |     113572 |         2509 |          |
 | 鄭豐喜                               | 汪洋中的一條船                      | http://haodoo.net/?M=d&P=BV11L2.epub      |   475 |     113572 |         2509 |          |
 | 東方玉                               | 一劍破天驕                          | http://haodoo.net/?M=d&P=D1275.epub       |   475 |     288356 |         2729 |          |
@@ -3457,7 +3457,7 @@ expect to encounter per sentence or page.
 | 梁鳳儀                               | 豪門驚夢                            | http://haodoo.net/?M=d&P=IV0441.epub      |   476 |      85573 |         2288 |          |
 | 橫溝正史                             | 化裝舞會                            | http://haodoo.net/?M=d&P=IV1016.epub      |   476 |     146573 |         2181 |          |
 | 梁羽生                               | 風雲雷電                            | http://haodoo.net/?M=d&P=IV10G6.epub      |   476 |     623176 |         3095 |          |
-| 王文興                               | 家變                                | http://haodoo.net/?M=d&P=A11N3.epub       |   476 |      89805 |         2619 | 世界百強 |
+| 王文興                               | 家變                                | http://haodoo.net/?M=d&P=A11N3.epub       |   476 |      89805 |         2619 | 世紀百強 |
 | 彼德‧梅爾                            | 有關品味                            | http://haodoo.net/?M=d&P=B522.epub        |   477 |      80890 |         2375 |          |
 | 彼德‧梅爾                            | 有關品味                            | http://haodoo.net/?M=d&P=BV522.epub       |   477 |      80890 |         2375 |          |
 | 高陽                                 | 紅樓夢斷一‧秣陵春                   | http://haodoo.net/?M=d&P=C1271.epub       |   477 |     159457 |         2568 |          |
@@ -3503,7 +3503,7 @@ expect to encounter per sentence or page.
 | 路翎                                 | 財主底兒女們                        | http://haodoo.net/?M=d&P=A476.epub        |   477 |     586264 |         2907 |          |
 | 賈德諾                               | 管理員的貓                          | http://haodoo.net/?M=d&P=E16K9.epub       |   477 |      93135 |         1844 |          |
 | 賈德諾                               | 管理員的貓                          | http://haodoo.net/?M=d&P=EV16K9.epub      |   477 |      93135 |         1844 |          |
-| 路翎                                 | 財主底兒女們                        | http://haodoo.net/?M=d&P=A476.epub        |   477 |     586264 |         2907 | 世界百強 |
+| 路翎                                 | 財主底兒女們                        | http://haodoo.net/?M=d&P=A476.epub        |   477 |     586264 |         2907 | 世紀百強 |
 | 楊絳                                 | 洗澡                                | http://haodoo.net/?M=d&P=AV474.epub       |   478 |     110379 |         2160 |          |
 | 心悟                                 | 馬屁經                              | http://haodoo.net/?M=d&P=B48.epub         |   478 |     180015 |         2907 |          |
 | 心悟                                 | 馬屁經                              | http://haodoo.net/?M=d&P=BV48.epub        |   478 |     180015 |         2907 |          |
@@ -3528,7 +3528,7 @@ expect to encounter per sentence or page.
 | 黃鷹                                 | 天蠶再變                            | http://haodoo.net/?M=d&P=IV0847a.epub     |   478 |     233654 |         2438 |          |
 | 天樹征丸                             | 雷祭殺人事件                        | http://haodoo.net/?M=d&P=IV10N7.epub      |   478 |      40131 |         1468 |          |
 | 馬榮成                               | 風雲小說二．搜神篇                  | http://haodoo.net/?M=d&P=J081110b.epub    |   478 |     207384 |         2623 |          |
-| 楊絳                                 | 洗澡                                | http://haodoo.net/?M=d&P=A474.epub        |   478 |     110379 |         2160 | 世界百強 |
+| 楊絳                                 | 洗澡                                | http://haodoo.net/?M=d&P=A474.epub        |   478 |     110379 |         2160 | 世紀百強 |
 | 慕容美                               | 解語劍                              | http://haodoo.net/?M=d&P=D273.epub        |   479 |     340442 |         3044 |          |
 | 賈德諾                               | 梅森探案集 12．假眼                 | http://haodoo.net/?M=d&P=E11H4.epub       |   479 |      25848 |         1214 |          |
 | 阿嘉莎．克莉絲蒂                     | 黑麥奇案                            | http://haodoo.net/?M=d&P=E1282.epub       |   479 |      79510 |         1863 |          |
@@ -3580,7 +3580,7 @@ expect to encounter per sentence or page.
 | 汎遇                                 | 說鬼異言堂                          | http://haodoo.net/?M=d&P=GV16J1.epub      |   480 |      39107 |         1561 |          |
 | 陳映真                               | 我的弟弟康雄                        | http://haodoo.net/?M=d&P=H16J2.epub       |   480 |      73258 |         2372 |          |
 | 陳映真                               | 我的弟弟康雄                        | http://haodoo.net/?M=d&P=HV16J2.epub      |   480 |      73258 |         2372 |          |
-| 魯迅                                 | 吶喊                                | http://haodoo.net/?M=d&P=AV435.epub       |   480 |      68280 |         2156 | 世界百強 |
+| 魯迅                                 | 吶喊                                | http://haodoo.net/?M=d&P=AV435.epub       |   480 |      68280 |         2156 | 世紀百強 |
 | 林清玄                               | 林清玄散文集                        | http://haodoo.net/?M=d&P=B0998.epub       |   481 |     197719 |         2916 |          |
 | 紀榮起、張平主編                     | 不可思議的地理之旅                  | http://haodoo.net/?M=d&P=B14BA0.epub      |   481 |      69425 |         1968 |          |
 | 林清玄                               | 林清玄散文集                        | http://haodoo.net/?M=d&P=BV0998.epub      |   481 |     197719 |         2916 |          |
@@ -3681,8 +3681,8 @@ expect to encounter per sentence or page.
 | 左晴雯                               | 親愛的暴君                          | http://haodoo.net/?M=d&P=HQRA09.epub      |   484 |      64795 |         1815 |          |
 | 雷馬克                               | 西線無戰事                          | http://haodoo.net/?M=d&P=HV1615.epub      |   484 |      95997 |         2334 |          |
 | 平江不肖生                           | 江湖怪異傳                          | http://haodoo.net/?M=d&P=I09D1.epub       |   484 |      48819 |         1786 |          |
-| 劉恆                                 | 狗日的糧食                          | http://haodoo.net/?M=d&P=A428.epub        |   484 |       7460 |          777 | 世界百強 |
-| 汪曾祺                               | 受戒                                | http://haodoo.net/?M=d&P=A508.epub        |   484 |       8700 |          783 | 世界百強 |
+| 劉恆                                 | 狗日的糧食                          | http://haodoo.net/?M=d&P=A428.epub        |   484 |       7460 |          777 | 世紀百強 |
+| 汪曾祺                               | 受戒                                | http://haodoo.net/?M=d&P=A508.epub        |   484 |       8700 |          783 | 世紀百強 |
 | 鍾肇政                               | 臺灣人三部曲一：沉淪                | http://haodoo.net/?M=d&P=A11N4a.epub      |   485 |     191396 |         2663 |          |
 | 卡爾．鄧尼茨                         | 十年與二十天                        | http://haodoo.net/?M=d&P=C1355.epub       |   485 |     314587 |         1993 |          |
 | 卡爾．鄧尼茨                         | 十年與二十天                        | http://haodoo.net/?M=d&P=CV1355.epub      |   485 |     314587 |         1993 |          |
@@ -3714,7 +3714,7 @@ expect to encounter per sentence or page.
 | 梁羽生                               | 冰魄寒光劍                          | http://haodoo.net/?M=d&P=IV10F1.epub      |   485 |      97081 |         2270 |          |
 | 村上春樹                             | 世界末日與冷酷異境                  | http://haodoo.net/?M=d&P=J08121802.epub   |   485 |     219824 |         2822 |          |
 | 村上春樹                             | 世界末日與冷酷異境                  | http://haodoo.net/?M=d&P=JV08121802.epub  |   485 |     219824 |         2822 |          |
-| 張賢亮                               | 男人的一半是女人                    | http://haodoo.net/?M=d&P=A503.epub        |   485 |     109915 |         2661 | 世界百強 |
+| 張賢亮                               | 男人的一半是女人                    | http://haodoo.net/?M=d&P=A503.epub        |   485 |     109915 |         2661 | 世紀百強 |
 | 蕭瑟                                 | 白帝青后                            | http://haodoo.net/?M=d&P=D1352.epub       |   486 |     395426 |         2861 |          |
 | 獨孤紅                               | 玉龍美豪客                          | http://haodoo.net/?M=d&P=D14M3.epub       |   486 |     308586 |         2821 |          |
 | 金庸                                 | 神鵰俠侶一                          | http://haodoo.net/?M=d&P=D56a.epub        |   486 |     199535 |         2614 |          |
@@ -3746,7 +3746,7 @@ expect to encounter per sentence or page.
 | 堺屋太一                             | 豐臣秀長                            | http://haodoo.net/?M=d&P=C16P2.epub       |   486 |     245322 |         2670 |          |
 | 堺屋太一                             | 豐臣秀長                            | http://haodoo.net/?M=d&P=CV16P2.epub      |   486 |     245322 |         2670 |          |
 | 金庸                                 | 鹿鼎記                              | http://haodoo.net/?M=d&P=D67.epub         |   486 |    1033080 |         3805 |          |
-| 金庸                                 | 鹿鼎記                              | http://haodoo.net/?M=d&P=D67.epub         |   486 |    1033080 |         3805 | 世界百強 |
+| 金庸                                 | 鹿鼎記                              | http://haodoo.net/?M=d&P=D67.epub         |   486 |    1033080 |         3805 | 世紀百強 |
 | 戴爾．卡內基                         | 林肯傳                              | http://haodoo.net/?M=d&P=B1431.epub       |   487 |      86026 |         2339 |          |
 | 戴爾．卡內基                         | 林肯傳                              | http://haodoo.net/?M=d&P=BV1431.epub      |   487 |      86026 |         2339 |          |
 | 獨孤紅                               | 男子漢                              | http://haodoo.net/?M=d&P=D13I6.epub       |   487 |     363983 |         2664 |          |
@@ -3835,8 +3835,8 @@ expect to encounter per sentence or page.
 | 桐華                                 | 步步驚心                            | http://haodoo.net/?M=d&P=H1625.epub       |   489 |     321667 |         3016 |          |
 | 莎士比亞                             | 愛的徒勞                            | http://haodoo.net/?M=d&P=HV15C1.epub      |   489 |      40078 |         1720 |          |
 | 桐華                                 | 步步驚心                            | http://haodoo.net/?M=d&P=HV1625.epub      |   489 |     321667 |         3016 |          |
-| 錢鍾書                               | 圍城                                | http://haodoo.net/?M=d&P=A399.epub        |   489 |     204990 |         2854 | 世界百強 |
-| 劉鶚                                 | 老殘遊記                            | http://haodoo.net/?M=d&P=G85.epub         |   489 |     105757 |         2487 | 世界百強 |
+| 錢鍾書                               | 圍城                                | http://haodoo.net/?M=d&P=A399.epub        |   489 |     204990 |         2854 | 世紀百強 |
+| 劉鶚                                 | 老殘遊記                            | http://haodoo.net/?M=d&P=G85.epub         |   489 |     105757 |         2487 | 世紀百強 |
 | 朱熹                                 | 中庸章句                            | http://haodoo.net/?M=d&P=B14L0b.epub      |   490 |      14638 |          810 |          |
 | 朱熹                                 | 中庸章句                            | http://haodoo.net/?M=d&P=BV14L0b.epub     |   490 |      14638 |          810 |          |
 | 阿越                                 | 新宋卷三                            | http://haodoo.net/?M=d&P=C15Q2.epub       |   490 |     131894 |         2467 |          |
@@ -3896,7 +3896,7 @@ expect to encounter per sentence or page.
 | 查爾斯．尼科爾                       | 達文西傳                            | http://haodoo.net/?M=d&P=BV16F2.epub      |   491 |     111814 |         2223 |          |
 | 嚴沁                                 | 午夜吉他                            | http://haodoo.net/?M=d&P=F16Q4.epub       |   491 |     138625 |         2113 |          |
 | 嚴沁                                 | 午夜吉他                            | http://haodoo.net/?M=d&P=FV16Q4.epub      |   491 |     138625 |         2113 |          |
-| 林斤瀾                               | 十年十癔                            | http://haodoo.net/?M=d&P=A11M7.epub       |   491 |      51529 |         1942 | 世界百強 |
+| 林斤瀾                               | 十年十癔                            | http://haodoo.net/?M=d&P=A11M7.epub       |   491 |      51529 |         1942 | 世紀百強 |
 | 朱西寧                               | 鐵漿                                | http://haodoo.net/?M=d&P=AV509.epub       |   492 |       8289 |          864 |          |
 | 司馬遼太郎                           | 豐臣一族                            | http://haodoo.net/?M=d&P=C11J6.epub       |   492 |     186543 |         2693 |          |
 | 高陽                                 | 風塵三俠                            | http://haodoo.net/?M=d&P=C15E0.epub       |   492 |     143515 |         2637 |          |
@@ -3943,8 +3943,8 @@ expect to encounter per sentence or page.
 | 韓少功                               | 馬橋詞典．第一版                    | http://haodoo.net/?M=d&P=AV577.epub       |   492 |     177888 |         2870 |          |
 | 藍秀朗                               | 赤色處刑者                          | http://haodoo.net/?M=d&P=E16R2.epub       |   492 |      67220 |         1909 |          |
 | 藍秀朗                               | 赤色處刑者                          | http://haodoo.net/?M=d&P=EV16R2.epub      |   492 |      67220 |         1909 |          |
-| 朱西寧                               | 鐵漿                                | http://haodoo.net/?M=d&P=A509.epub        |   492 |       8289 |          864 | 世界百強 |
-| 韓少功                               | 馬橋詞典．第一版                    | http://haodoo.net/?M=d&P=A577.epub        |   492 |     177888 |         2870 | 世界百強 |
+| 朱西寧                               | 鐵漿                                | http://haodoo.net/?M=d&P=A509.epub        |   492 |       8289 |          864 | 世紀百強 |
+| 韓少功                               | 馬橋詞典．第一版                    | http://haodoo.net/?M=d&P=A577.epub        |   492 |     177888 |         2870 | 世紀百強 |
 | 吳思                                 | 潛規則                              | http://haodoo.net/?M=d&P=B228.epub        |   493 |     141174 |         2466 |          |
 | 吳思                                 | 潛規則                              | http://haodoo.net/?M=d&P=BV228.epub       |   493 |     141174 |         2466 |          |
 | 高陽                                 | 楊門忠烈傳                          | http://haodoo.net/?M=d&P=C12K4.epub       |   493 |     119645 |         2438 |          |
@@ -4056,7 +4056,7 @@ expect to encounter per sentence or page.
 | 漢．無名氏                           | 古詩十九首                          | http://haodoo.net/?M=d&P=IV1087.epub      |   496 |     147565 |         2610 |          |
 | 琳恩．索爾茲喬．摩爾                 | 聖盃奇謀                            | http://haodoo.net/?M=d&P=J090830a.epub    |   496 |     132671 |         2490 |          |
 | 琳恩．索爾茲喬．摩爾                 | 聖盃奇謀                            | http://haodoo.net/?M=d&P=JV090830a.epub   |   496 |     132671 |         2490 |          |
-| 金庸                                 | 射鵰英雄傳二                        | http://haodoo.net/?M=d&P=D55b.epub        |   496 |     196775 |         2714 | 世界百強 |
+| 金庸                                 | 射鵰英雄傳二                        | http://haodoo.net/?M=d&P=D55b.epub        |   496 |     196775 |         2714 | 世紀百強 |
 | 李宗吾                               | 厚黑學                              | http://haodoo.net/?M=d&P=B1580.epub       |   497 |     131283 |         2635 |          |
 | 李宗吾                               | 厚黑學                              | http://haodoo.net/?M=d&P=BV1580.epub      |   497 |     131283 |         2635 |          |
 | 唐浩明                               | 楊度．下卷                          | http://haodoo.net/?M=d&P=C10S0c.epub      |   497 |     238789 |         3167 |          |
@@ -4158,7 +4158,7 @@ expect to encounter per sentence or page.
 | 井上靖                               | 漲潮                                | http://haodoo.net/?M=d&P=H16S7.epub       |   499 |     124289 |         2101 |          |
 | 馬格斯．朱薩克                       | 偷書賊                              | http://haodoo.net/?M=d&P=HV16N0.epub      |   499 |     197351 |         2558 |          |
 | 井上靖                               | 漲潮                                | http://haodoo.net/?M=d&P=HV16S7.epub      |   499 |     124289 |         2101 |          |
-| 朱天心                               | 古都                                | http://haodoo.net/?M=d&P=A557.epub        |   499 |     113185 |         2837 | 世界百強 |
+| 朱天心                               | 古都                                | http://haodoo.net/?M=d&P=A557.epub        |   499 |     113185 |         2837 | 世紀百強 |
 | 李潔                                 | 文武北洋                            | http://haodoo.net/?M=d&P=C1398.epub       |   500 |     222367 |         3224 |          |
 | 李潔                                 | 文武北洋                            | http://haodoo.net/?M=d&P=CV1398.epub      |   500 |     222367 |         3224 |          |
 | 臥龍生                               | 岳小釵                              | http://haodoo.net/?M=d&P=D1137.epub       |   500 |     623794 |         2883 |          |
@@ -4250,7 +4250,7 @@ expect to encounter per sentence or page.
 | 蕭鼎                                 | 誅仙                                | http://haodoo.net/?M=d&P=IV0990.epub      |   502 |    1328840 |         3332 |          |
 | 陽光晴子                             | 男人靠近一點                        | http://haodoo.net/?M=d&P=J090814Y8.epub   |   502 |      58665 |         1941 |          |
 | 唐浩明                               | 楊度．中卷                          | http://haodoo.net/?M=d&P=CV10S0b.epub     |   502 |     278485 |         3284 |          |
-| 李銳                                 | 舊址                                | http://haodoo.net/?M=d&P=A513.epub        |   502 |     130593 |         2696 | 世界百強 |
+| 李銳                                 | 舊址                                | http://haodoo.net/?M=d&P=A513.epub        |   502 |     130593 |         2696 | 世紀百強 |
 | 阿越                                 | 新宋卷十二                          | http://haodoo.net/?M=d&P=C16B6.epub       |   503 |     171684 |         2646 |          |
 | 高陽                                 | 燈火樓台                            | http://haodoo.net/?M=d&P=C398c.epub       |   503 |     404895 |         3409 |          |
 | 阿越                                 | 新宋卷十二                          | http://haodoo.net/?M=d&P=CV16B6.epub      |   503 |     171684 |         2646 |          |
@@ -4392,7 +4392,7 @@ expect to encounter per sentence or page.
 | 既晴                                 | 請把門鎖好                          | http://haodoo.net/?M=d&P=I10B9.epub       |   507 |      98590 |         2199 |          |
 | 梁羽生                               | 鳴鏑風雲錄                          | http://haodoo.net/?M=d&P=I10L6.epub       |   507 |     976480 |         3440 |          |
 | 梁羽生                               | 鳴鏑風雲錄                          | http://haodoo.net/?M=d&P=IV10L6.epub      |   507 |     976480 |         3440 |          |
-| 王安憶                               | 長恨歌                              | http://haodoo.net/?M=d&P=A453.epub        |   507 |     237473 |         3007 | 世界百強 |
+| 王安憶                               | 長恨歌                              | http://haodoo.net/?M=d&P=A453.epub        |   507 |     237473 |         3007 | 世紀百強 |
 | 星雲大師                             | 捨得的藝術                          | http://haodoo.net/?M=d&P=B14Q9.epub       |   508 |      57719 |         2192 |          |
 | 星雲大師                             | 捨得的藝術                          | http://haodoo.net/?M=d&P=BV14Q9.epub      |   508 |      57719 |         2192 |          |
 | 高陽                                 | 假官真做                            | http://haodoo.net/?M=d&P=C1286.epub       |   508 |      93635 |         2408 |          |
@@ -4473,7 +4473,7 @@ expect to encounter per sentence or page.
 | 溫瑞安                               | 神州奇俠一：劍氣長江                | http://haodoo.net/?M=d&P=IV0372.epub      |   510 |     127405 |         2451 |          |
 | 海宴                                 | 琅琊榜                              | http://haodoo.net/?M=d&P=H16O9.epub       |   510 |     577341 |         3405 |          |
 | 海宴                                 | 琅琊榜                              | http://haodoo.net/?M=d&P=HV16O9.epub      |   510 |     577341 |         3405 |          |
-| 茅盾                                 | 子夜                                | http://haodoo.net/?M=d&P=A437.epub        |   510 |     244815 |         2810 | 世界百強 |
+| 茅盾                                 | 子夜                                | http://haodoo.net/?M=d&P=A437.epub        |   510 |     244815 |         2810 | 世紀百強 |
 | Unknown                              | 考古探險：絕境之地的神奇故事        | http://haodoo.net/?M=d&P=B15O4.epub       |   511 |      75627 |         2120 |          |
 | Unknown                              | 考古探險：絕境之地的神奇故事        | http://haodoo.net/?M=d&P=BV15O4.epub      |   511 |      75627 |         2120 |          |
 | 史傑鵬                               | 賭徒陳湯                            | http://haodoo.net/?M=d&P=C10T3.epub       |   511 |     198745 |         2985 |          |
@@ -4628,7 +4628,7 @@ expect to encounter per sentence or page.
 | 娥蘇拉．勒瑰恩                       | 地海巫師                            | http://haodoo.net/?M=d&P=I10G9a.epub      |   516 |      91216 |         2232 |          |
 | 高陽                                 | 正德外記                            | http://haodoo.net/?M=d&P=IV1061.epub      |   516 |     141091 |         2751 |          |
 | 娥蘇拉．勒瑰恩                       | 地海巫師                            | http://haodoo.net/?M=d&P=IV10G9a.epub     |   516 |      91216 |         2232 |          |
-| 古華                                 | 芙蓉鎮                              | http://haodoo.net/?M=d&P=A553.epub        |   516 |     119793 |         2529 | 世界百強 |
+| 古華                                 | 芙蓉鎮                              | http://haodoo.net/?M=d&P=A553.epub        |   516 |     119793 |         2529 | 世紀百強 |
 | 張愛玲                               | 傳奇                                | http://haodoo.net/?M=d&P=AV430.epub       |   517 |     234787 |         3116 |          |
 | 陳義芝編                             | 散文教室                            | http://haodoo.net/?M=d&P=B12H6.epub       |   517 |     157696 |         3287 |          |
 | 陳義芝編                             | 散文教室                            | http://haodoo.net/?M=d&P=BV12H6.epub      |   517 |     157696 |         3287 |          |
@@ -4658,7 +4658,7 @@ expect to encounter per sentence or page.
 | 黃鷹                                 | 天蠶變                              | http://haodoo.net/?M=d&P=I0847.epub       |   517 |     292549 |         2707 |          |
 | 溫瑞安                               | 神州奇俠五：闖蕩江湖                | http://haodoo.net/?M=d&P=IV0376.epub      |   517 |      71642 |         2167 |          |
 | 黃鷹                                 | 天蠶變                              | http://haodoo.net/?M=d&P=IV0847.epub      |   517 |     292549 |         2707 |          |
-| 張愛玲                               | 傳奇                                | http://haodoo.net/?M=d&P=A430.epub        |   517 |     234787 |         3116 | 世界百強 |
+| 張愛玲                               | 傳奇                                | http://haodoo.net/?M=d&P=A430.epub        |   517 |     234787 |         3116 | 世紀百強 |
 | 蔣勳                                 | 因為孤獨的緣故                      | http://haodoo.net/?M=d&P=B14J2.epub       |   518 |      49870 |         2055 |          |
 | 蔣勳                                 | 因為孤獨的緣故                      | http://haodoo.net/?M=d&P=BV14J2.epub      |   518 |      49870 |         2055 |          |
 | 白崇禧                               | 白崇禧先生訪問紀錄．下              | http://haodoo.net/?M=d&P=C11A2b.epub      |   518 |     182293 |         2559 |          |
@@ -4777,7 +4777,7 @@ expect to encounter per sentence or page.
 | 溫瑞安                               | 殺人者唐斬                          | http://haodoo.net/?M=d&P=DV16S4.epub      |   522 |      53128 |         1926 |          |
 | 瓊瑤                                 | 白狐                                | http://haodoo.net/?M=d&P=F16Q7.epub       |   522 |     117230 |         2424 |          |
 | 瓊瑤                                 | 白狐                                | http://haodoo.net/?M=d&P=FV16Q7.epub      |   522 |     117230 |         2424 |          |
-| 王禎和                               | 嫁妝一牛車                          | http://haodoo.net/?M=d&P=A499.epub        |   522 |      11348 |          979 | 世界百強 |
+| 王禎和                               | 嫁妝一牛車                          | http://haodoo.net/?M=d&P=A499.epub        |   522 |      11348 |          979 | 世紀百強 |
 | 何寄澎                               | 等待                                | http://haodoo.net/?M=d&P=B1388.epub       |   523 |      62285 |         2295 |          |
 | 朱熹                                 | 大學章句                            | http://haodoo.net/?M=d&P=B14L0a.epub      |   523 |       6908 |          570 |          |
 | 何寄澎                               | 等待                                | http://haodoo.net/?M=d&P=BV1388.epub      |   523 |      62285 |         2295 |          |
@@ -4803,7 +4803,7 @@ expect to encounter per sentence or page.
 | 月關                                 | 大爭之世卷二                        | http://haodoo.net/?M=d&P=H15P0.epub       |   523 |     115659 |         2625 |          |
 | 馬奎斯                               | 百年孤寂                            | http://haodoo.net/?M=d&P=HV12B2.epub      |   523 |     215025 |         2918 |          |
 | 月關                                 | 大爭之世卷二                        | http://haodoo.net/?M=d&P=HV15P0.epub      |   523 |     115659 |         2625 |          |
-| 張煒                                 | 古船                                | http://haodoo.net/?M=d&P=A514.epub        |   523 |     236771 |         2890 | 世界百強 |
+| 張煒                                 | 古船                                | http://haodoo.net/?M=d&P=A514.epub        |   523 |     236771 |         2890 | 世紀百強 |
 | 黃永武                               | 山居功課                            | http://haodoo.net/?M=d&P=B12N6.epub       |   524 |      51645 |         2364 |          |
 | 黃永武                               | 山居功課                            | http://haodoo.net/?M=d&P=BV12N6.epub      |   524 |      51645 |         2364 |          |
 | 李開元                               | 秦謎：秦始皇的祕密                  | http://haodoo.net/?M=d&P=C12H0.epub       |   524 |     152958 |         2164 |          |
@@ -5168,7 +5168,7 @@ expect to encounter per sentence or page.
 | 方白羽                               | 千門卷四                            | http://haodoo.net/?M=d&P=D16P4.epub       |   540 |      90739 |         2298 |          |
 | 方白羽                               | 千門卷一                            | http://haodoo.net/?M=d&P=DV16L6.epub      |   540 |      91900 |         2296 |          |
 | 方白羽                               | 千門卷四                            | http://haodoo.net/?M=d&P=DV16P4.epub      |   540 |      90739 |         2298 |          |
-| 白先勇                               | 台北人                              | http://haodoo.net/?M=d&P=A244.epub        |   540 |      92095 |         2555 | 世界百強 |
+| 白先勇                               | 台北人                              | http://haodoo.net/?M=d&P=A244.epub        |   540 |      92095 |         2555 | 世紀百強 |
 | 弘一大師                             | 晚晴集                              | http://haodoo.net/?M=d&P=B163.epub        |   541 |       3856 |          530 |          |
 | 弘一大師                             | 晚晴集                              | http://haodoo.net/?M=d&P=BV163.epub       |   541 |       3856 |          530 |          |
 | 林語堂                               | 武則天正傳                          | http://haodoo.net/?M=d&P=C14V9.epub       |   541 |     103017 |         2475 |          |
@@ -5418,8 +5418,8 @@ expect to encounter per sentence or page.
 | 月關                                 | 錦衣夜行五卷二                      | http://haodoo.net/?M=d&P=H15T4b.epub      |   555 |     107347 |         2691 |          |
 | 月關                                 | 錦衣夜行五卷二                      | http://haodoo.net/?M=d&P=HV15T4b.epub     |   555 |     107347 |         2691 |          |
 | 馬榮成                               | 風雲小說一．驚世少年                | http://haodoo.net/?M=d&P=J081110a.epub    |   555 |     189556 |         2669 |          |
-| 蘇童                                 | 妻妾成群                            | http://haodoo.net/?M=d&P=A389.epub        |   555 |      31751 |         1498 | 世界百強 |
-| 李碧華                               | 霸王別姬                            | http://haodoo.net/?M=d&P=A504.epub        |   555 |      76003 |         2587 | 世界百強 |
+| 蘇童                                 | 妻妾成群                            | http://haodoo.net/?M=d&P=A389.epub        |   555 |      31751 |         1498 | 世紀百強 |
+| 李碧華                               | 霸王別姬                            | http://haodoo.net/?M=d&P=A504.epub        |   555 |      76003 |         2587 | 世紀百強 |
 | 程明琤                               | 歲月邊緣                            | http://haodoo.net/?M=d&P=B12L8.epub       |   556 |      87015 |         2650 |          |
 | 程明琤                               | 歲月邊緣                            | http://haodoo.net/?M=d&P=BV12L8.epub      |   556 |      87015 |         2650 |          |
 | 溫瑞安                               | 談亭會                              | http://haodoo.net/?M=d&P=D13M3.epub       |   556 |      47059 |         1936 |          |
@@ -5492,7 +5492,7 @@ expect to encounter per sentence or page.
 | 雪雁                                 | 龍劍青萍                            | http://haodoo.net/?M=d&P=DV13F0.epub      |   561 |     406088 |         2693 |          |
 | 曹若冰                               | 金劍寒梅                            | http://haodoo.net/?M=d&P=DV13I0.epub      |   561 |     316135 |         2719 |          |
 | 梁羽生                               | 白髮魔女傳                          | http://haodoo.net/?M=d&P=DV438.epub       |   561 |     341780 |         3127 |          |
-| 梁羽生                               | 白髮魔女傳                          | http://haodoo.net/?M=d&P=D438.epub        |   561 |     341780 |         3127 | 世界百強 |
+| 梁羽生                               | 白髮魔女傳                          | http://haodoo.net/?M=d&P=D438.epub        |   561 |     341780 |         3127 | 世紀百強 |
 | 袁了凡                               | 了凡四訓                            | http://haodoo.net/?M=d&P=B531a.epub       |   562 |       9590 |          924 |          |
 | 袁了凡                               | 了凡四訓                            | http://haodoo.net/?M=d&P=BV531a.epub      |   562 |       9590 |          924 |          |
 | 茂呂美耶                             | 傳說日本                            | http://haodoo.net/?M=d&P=C15K7.epub       |   562 |      72760 |         2270 |          |
@@ -5509,7 +5509,7 @@ expect to encounter per sentence or page.
 | 費蒙                                 | 情報掮客                            | http://haodoo.net/?M=d&P=JFM13.epub       |   563 |     267825 |         2870 |          |
 | 鳳歌                                 | 崑崙三．破城卷                      | http://haodoo.net/?M=d&P=JV090908c.epub   |   563 |     138579 |         2682 |          |
 | 費蒙                                 | 情報掮客                            | http://haodoo.net/?M=d&P=JVFM13.epub      |   563 |     267825 |         2870 |          |
-| 李昂                                 | 殺夫                                | http://haodoo.net/?M=d&P=A447.epub        |   563 |      48926 |         1841 | 世界百強 |
+| 李昂                                 | 殺夫                                | http://haodoo.net/?M=d&P=A447.epub        |   563 |      48926 |         1841 | 世紀百強 |
 | 鄭愁予                               | 鄭愁予詩選集                        | http://haodoo.net/?M=d&P=B13F5.epub       |   564 |      27166 |         1683 |          |
 | 鄭愁予                               | 鄭愁予詩選集                        | http://haodoo.net/?M=d&P=BV13F5.epub      |   564 |      27166 |         1683 |          |
 | 王立群                               | 秦始皇：從戰國到一統天下．下        | http://haodoo.net/?M=d&P=C14S0b.epub      |   564 |     179803 |         2593 |          |
@@ -5548,7 +5548,7 @@ expect to encounter per sentence or page.
 | 黃易                                 | 覆雨翻雲七                          | http://haodoo.net/?M=d&P=D70g.epub        |   568 |     266228 |         2945 |          |
 | 黃易                                 | 覆雨翻雲七                          | http://haodoo.net/?M=d&P=DV70g.epub       |   568 |     266228 |         2945 |          |
 | 司馬中原                             | 流星雨                              | http://haodoo.net/?M=d&P=H1250.epub       |   568 |     128944 |         2528 |          |
-| 唐浩明                               | 曾國藩三：黑雨                      | http://haodoo.net/?M=d&P=A395c.epub       |   568 |     317748 |         3580 | 世界百強 |
+| 唐浩明                               | 曾國藩三：黑雨                      | http://haodoo.net/?M=d&P=A395c.epub       |   568 |     317748 |         3580 | 世紀百強 |
 | 曾樸                                 | 孽海花                              | http://haodoo.net/?M=d&P=AV500.epub       |   569 |     222824 |         3476 |          |
 | 熊召政                               | 張居正三                            | http://haodoo.net/?M=d&P=C363c.epub       |   569 |     242858 |         3499 |          |
 | 雲中岳                               | 鋒鏑情潮                            | http://haodoo.net/?M=d&P=D1224.epub       |   569 |     468400 |         3356 |          |
@@ -5556,7 +5556,7 @@ expect to encounter per sentence or page.
 | 陳青雲                               | 寒星冷月仇                          | http://haodoo.net/?M=d&P=D15H7.epub       |   569 |     388576 |         2995 |          |
 | 柳殘陽                               | 血刀江湖載酒行                      | http://haodoo.net/?M=d&P=DV12N7.epub      |   569 |      69417 |         2211 |          |
 | 陳青雲                               | 寒星冷月仇                          | http://haodoo.net/?M=d&P=DV15H7.epub      |   569 |     388576 |         2995 |          |
-| 曾樸                                 | 孽海花                              | http://haodoo.net/?M=d&P=A500.epub        |   569 |     222824 |         3476 | 世界百強 |
+| 曾樸                                 | 孽海花                              | http://haodoo.net/?M=d&P=A500.epub        |   569 |     222824 |         3476 | 世紀百強 |
 | 唐浩明                               | 曾國藩二：野焚                      | http://haodoo.net/?M=d&P=A395b.epub       |   570 |     264349 |         3378 |          |
 | 唐浩明                               | 曾國藩二：野焚                      | http://haodoo.net/?M=d&P=AV395b.epub      |   570 |     264349 |         3378 |          |
 | 二月河                               | 康熙大帝二                          | http://haodoo.net/?M=d&P=C12B5b.epub      |   570 |     258702 |         3521 |          |
@@ -5623,7 +5623,7 @@ expect to encounter per sentence or page.
 | 天下霸唱                             | 南海歸墟                            | http://haodoo.net/?M=d&P=IV0711.epub      |   575 |     206867 |         2758 |          |
 | 月關                                 | 醉枕江山卷一                        | http://haodoo.net/?M=d&P=H16L8.epub       |   575 |      69016 |         2410 |          |
 | 月關                                 | 醉枕江山卷一                        | http://haodoo.net/?M=d&P=HV16L8.epub      |   575 |      69016 |         2410 |          |
-| 朱天文                               | 世紀末的華麗                        | http://haodoo.net/?M=d&P=A550.epub        |   575 |      72878 |         2708 | 世界百強 |
+| 朱天文                               | 世紀末的華麗                        | http://haodoo.net/?M=d&P=A550.epub        |   575 |      72878 |         2708 | 世紀百強 |
 | 熊召政                               | 張居正一                            | http://haodoo.net/?M=d&P=C363a.epub       |   576 |     236450 |         3346 |          |
 | 姑蘇痴情士筆                         | 鬧花叢                              | http://haodoo.net/?M=d&P=G44.epub         |   576 |      38985 |         1945 |          |
 | 姑蘇痴情士筆                         | 鬧花叢                              | http://haodoo.net/?M=d&P=GV44.epub        |   576 |      38985 |         1945 |          |
@@ -5668,10 +5668,10 @@ expect to encounter per sentence or page.
 | 喬治‧馬汀                            | 冰與火之歌三：冰雨的風暴            | http://haodoo.net/?M=d&P=G11A9c.epub      |   584 |     598160 |         3498 |          |
 | 司馬中原                             | 紅絲鳳                              | http://haodoo.net/?M=d&P=H1467.epub       |   584 |     149736 |         2820 |          |
 | 司馬中原                             | 紅絲鳳                              | http://haodoo.net/?M=d&P=HV1467.epub      |   584 |     149736 |         2820 |          |
-| 司馬中原                             | 狂風沙                              | http://haodoo.net/?M=d&P=A482.epub        |   584 |     587618 |         3764 | 世界百強 |
+| 司馬中原                             | 狂風沙                              | http://haodoo.net/?M=d&P=A482.epub        |   584 |     587618 |         3764 | 世紀百強 |
 | 諸葛青雲                             | 五霸七雄                            | http://haodoo.net/?M=d&P=I10L5.epub       |   585 |     275524 |         2912 |          |
 | 諸葛青雲                             | 五霸七雄                            | http://haodoo.net/?M=d&P=IV10L5.epub      |   585 |     275524 |         2912 |          |
-| 施叔青                               | 香港三部曲三                        | http://haodoo.net/?M=d&P=A544c.epub       |   585 |     100033 |         2803 | 世界百強 |
+| 施叔青                               | 香港三部曲三                        | http://haodoo.net/?M=d&P=A544c.epub       |   585 |     100033 |         2803 | 世紀百強 |
 | 諸葛青雲                             | 五嶽英豪傳                          | http://haodoo.net/?M=d&P=D10Q3.epub       |   586 |     332178 |         2950 |          |
 | 蕭玉寒                               | 三國異俠傳‧卷十                     | http://haodoo.net/?M=d&P=D1374.epub       |   586 |      63875 |         1798 |          |
 | 諸葛青雲                             | 金手書生                            | http://haodoo.net/?M=d&P=D13Q4.epub       |   586 |     309795 |         2882 |          |
@@ -5773,7 +5773,7 @@ expect to encounter per sentence or page.
 | 二月河                               | 雍正皇帝三                          | http://haodoo.net/?M=d&P=CV240bc.epub     |   607 |     365665 |         3896 |          |
 | 司馬中原                             | 十八里旱湖                          | http://haodoo.net/?M=d&P=H1210.epub       |   607 |     156979 |         2733 |          |
 | 司馬中原                             | 十八里旱湖                          | http://haodoo.net/?M=d&P=HV1210.epub      |   607 |     156979 |         2733 |          |
-| 二月河                               | 雍正皇帝三                          | http://haodoo.net/?M=d&P=C240bc.epub      |   607 |     365665 |         3896 | 世界百強 |
+| 二月河                               | 雍正皇帝三                          | http://haodoo.net/?M=d&P=C240bc.epub      |   607 |     365665 |         3896 | 世紀百強 |
 | 莫言                                 | 天堂蒜薹之歌                        | http://haodoo.net/?M=d&P=H12H8.epub       |   608 |     141431 |         2742 |          |
 | 傑克．倫敦                           | 白牙                                | http://haodoo.net/?M=d&P=H14M5.epub       |   608 |      95510 |         2129 |          |
 | 莫言                                 | 天堂蒜薹之歌                        | http://haodoo.net/?M=d&P=HV12H8.epub      |   608 |     141431 |         2742 |          |
@@ -5826,7 +5826,7 @@ expect to encounter per sentence or page.
 | 蕭玉寒                               | 三國異俠傳‧卷九                     | http://haodoo.net/?M=d&P=D1373.epub       |   622 |      64128 |         1773 |          |
 | 蕭玉寒                               | 三國異俠傳‧卷九                     | http://haodoo.net/?M=d&P=DV1373.epub      |   622 |      64128 |         1773 |          |
 | 陳忠實                               | 白鹿原                              | http://haodoo.net/?M=d&P=AV416.epub       |   624 |     422381 |         3568 |          |
-| 陳忠實                               | 白鹿原                              | http://haodoo.net/?M=d&P=A416.epub        |   624 |     422381 |         3568 | 世界百強 |
+| 陳忠實                               | 白鹿原                              | http://haodoo.net/?M=d&P=A416.epub        |   624 |     422381 |         3568 | 世紀百強 |
 | 諸葛青雲                             | 碧落紅塵                            | http://haodoo.net/?M=d&P=I10K9.epub       |   625 |     313030 |         2872 |          |
 | 諸葛青雲                             | 碧落紅塵                            | http://haodoo.net/?M=d&P=IV10K9.epub      |   625 |     313030 |         2872 |          |
 | 莫言                                 | 我們的荊軻                          | http://haodoo.net/?M=d&P=H1521.epub       |   627 |      22628 |         1430 |          |
@@ -5881,7 +5881,7 @@ expect to encounter per sentence or page.
 | 施叔青                               | 香港三部曲一                        | http://haodoo.net/?M=d&P=AV544a.epub      |   644 |      99857 |         2889 |          |
 | 司馬中原                             | 荒原                                | http://haodoo.net/?M=d&P=H1225.epub       |   644 |     147473 |         2810 |          |
 | 李永平                               | 吉陵春秋                            | http://haodoo.net/?M=d&P=AV521.epub       |   645 |      97472 |         2160 |          |
-| 李永平                               | 吉陵春秋                            | http://haodoo.net/?M=d&P=A521.epub        |   645 |      97472 |         2160 | 世界百強 |
+| 李永平                               | 吉陵春秋                            | http://haodoo.net/?M=d&P=A521.epub        |   645 |      97472 |         2160 | 世紀百強 |
 | 元稹等                               | 中國古代精采短篇小說選              | http://haodoo.net/?M=d&P=H1469.epub       |   651 |     145762 |         3323 |          |
 | 元稹等                               | 中國古代精采短篇小說選              | http://haodoo.net/?M=d&P=HV1469.epub      |   651 |     145762 |         3323 |          |
 | 諸葛青雲                             | 霹靂薔薇                            | http://haodoo.net/?M=d&P=I1062.epub       |   651 |     608792 |         3281 |          |
@@ -5889,7 +5889,7 @@ expect to encounter per sentence or page.
 | 唐魯孫                               | 中國吃                              | http://haodoo.net/?M=d&P=I0844.epub       |   652 |      81488 |         2559 |          |
 | 唐魯孫                               | 中國吃                              | http://haodoo.net/?M=d&P=IV0844.epub      |   652 |      81488 |         2559 |          |
 | 莫言                                 | 紅高粱                              | http://haodoo.net/?M=d&P=AV478.epub       |   653 |      43244 |         1940 |          |
-| 莫言                                 | 紅高粱                              | http://haodoo.net/?M=d&P=A478.epub        |   653 |      43244 |         1940 | 世界百強 |
+| 莫言                                 | 紅高粱                              | http://haodoo.net/?M=d&P=A478.epub        |   653 |      43244 |         1940 | 世紀百強 |
 | 閻崇年                               | 正說清朝十二帝                      | http://haodoo.net/?M=d&P=I0922.epub       |   655 |     137711 |         2746 |          |
 | 閻崇年                               | 正說清朝十二帝                      | http://haodoo.net/?M=d&P=IV0922.epub      |   655 |     137711 |         2746 |          |
 | 左晴雯                               | 雙飛｜始皇篇                        | http://haodoo.net/?M=d&P=HQRA10.epub      |   659 |      51442 |         1887 |          |
@@ -5919,7 +5919,7 @@ expect to encounter per sentence or page.
 | 王國維                               | 人間詞話                            | http://haodoo.net/?M=d&P=BV15I1.epub      |   749 |      19899 |         1541 |          |
 | 麻瑞亭                               | 麻瑞亭治驗集總論                    | http://haodoo.net/?M=d&P=H10O2.epub       |   778 |      15796 |          789 |          |
 | 徐枕亞                               | 玉梨魂                              | http://haodoo.net/?M=d&P=A11N5.epub       |   785 |      94501 |         2762 |          |
-| 徐枕亞                               | 玉梨魂                              | http://haodoo.net/?M=d&P=A11N5.epub       |   785 |      94501 |         2762 | 世界百強 |
+| 徐枕亞                               | 玉梨魂                              | http://haodoo.net/?M=d&P=A11N5.epub       |   785 |      94501 |         2762 | 世紀百強 |
 | 李光庭                               | 鄉言解頤                            | http://haodoo.net/?M=d&P=B1356.epub       |   788 |      48631 |         2698 |          |
 | 李光庭                               | 鄉言解頤                            | http://haodoo.net/?M=d&P=BV1356.epub      |   788 |      48631 |         2698 |          |
 | 李光庭                               | 鄉言解頤                            | http://haodoo.net/?M=d&P=B1356.epub       |   788 |      48631 |         2698 |          |
@@ -5940,7 +5940,7 @@ expect to encounter per sentence or page.
 
 
 
-世界百強
+世紀百強
 
 | Author(s) | Title                | URL                                           | Score | Char count | Unique Chars |
 | 鍾理和    | 原鄉人               | http://haodoo.net/?M=d&P=A505.epub   |   326 |       5629 |          615 |
